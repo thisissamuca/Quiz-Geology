@@ -1,0 +1,48 @@
+@media (max-width: 1024px) {
+  .imagem {
+    width: 600px;
+    height: 400px;
+  }
+  .table {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  #verific {
+    width: 400px;
+    height: 40px;
+    margin-top: 35px;
+  }
+}
+
+@media (max-width: 768px) {
+  .imagem {
+    width: 450px;
+    height: 300px;
+  }
+  #verific {
+    width: 250px;
+    height: 40px;
+  }
+  .table {
+    -webkit-transform: scale(0.8);
+            transform: scale(0.8);
+  }
+}
+
+@media (max-width: 425px) {
+  .imagem {
+    width: 270px;
+    height: 170px;
+  }
+  #verific {
+    width: 150px;
+    height: 25px;
+    margin-top: 42px;
+    margin-left: 5px;
+  }
+  .table {
+    -webkit-transform: scale(0.6);
+            transform: scale(0.6);
+  }
+}
+/*# sourceMappingURL=responsivity.css.map */

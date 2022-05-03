@@ -1,0 +1,232 @@
+/* ------------------------------------------------------------------------------- */
+
+/* -------------------- ** HEADER ** ----------------------- */
+
+#sairBtn {
+
+    border: none;
+    outline: none;
+
+    width: 50px;
+
+}
+
+#sairImg {
+
+    width: 50px;
+
+    border: none;
+    border-radius: 50%;
+    outline: none;
+
+}
+
+.btnControl {
+
+    background-color: white;
+
+    border: none;
+    border-radius: 50%;
+    outline: none;
+
+    margin-top: 30px;
+
+    width: 50px;
+    height: 100%;
+
+}
+
+/* ------------------------------------------------------------------------------- */
+
+/* -------------------- ** MAIN ** ----------------------- */
+
+/* CONTAINER QUIZ */
+
+.quiz {
+
+    background-color: white;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
+
+    margin: 60px 0px 60px 0px;
+
+    border: 1px solid rgba(0, 0, 0, 0.30);
+    border-radius: 8px;
+
+}
+
+.imagem {
+
+    width: 800px;
+    height: 500px;
+
+}
+
+.container {
+
+    transition: 2s;
+
+}
+
+/* ------------------------------------------------------------------------------- */
+
+/* CONTAINER RESPOSTAS  */
+
+#respostas {
+
+    padding: 20px 0px 10px 0px;
+
+    margin: 10px 20px 20px 20px;
+
+    transition: 1s;
+
+}
+
+/* BTNS RESPOSTAS */
+
+.resposta {
+
+    display: block;
+    border: 1px solid black;
+    
+    padding: 0px 20px 0px 20px;
+    margin: auto auto;
+    margin-bottom: 15px;
+
+    width: auto;
+    min-width: 100%;
+    height: 40px;
+
+    transition: .3s;
+}
+
+/* ------------------------------------------------------------------------------- */
+
+/* -------------------- ** SECTION ** ----------------------- */
+
+/* CAIXA FIM DE JOGO */
+
+#status {
+    
+    background-color: white;
+
+    margin: auto auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+    border-radius: 8px;
+
+}
+
+/* BOTÃO FIM DE JOGO */
+
+#novoJogo {
+    
+    background-color: rgb(41, 73, 255);
+    box-shadow: 0px 0px 10px rgba(51, 51, 51, 0.40);
+    color: white;
+
+    margin: auto auto;
+    margin: 50px 0px 50px 0px;
+    
+    border-radius: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    
+    width: 500px;
+    height: 40px;
+
+    cursor: pointer;
+    transition: .5s;
+
+}
+
+/* TEXTO DESEMPENHO */
+
+#desempenho {
+
+    font-size: 30px;
+
+    margin: 50px 0px 0px 0px;
+    
+}
+
+/* TÍTULO FIM DE JOGO */
+
+#mensagem {
+
+    font-weight: bold;
+
+    padding-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+/* ------------------------------------------------------------------------------- */
+
+/* -------------------- ** FOOTER ** ----------------------- */
+
+/* CONTAINER */
+
+#placar {
+
+    display: flex;
+
+    justify-content: space-around;
+
+}
+
+/* BTN VERIFICAR RESPOSTA */
+
+#verific {
+    
+    background-color: rgb(41, 73, 255);
+    box-shadow: 0px 0px 10px rgba(51, 51, 51, 0.40);
+    color: white;
+
+    margin: auto auto;
+    margin: 30px 0px 30px 0px;
+
+    border-radius: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    
+    width: 500px;
+    height: 40px;
+
+    cursor: pointer;
+    transition: 1s;
+
+}
+
+/* TABELA */
+
+.table {
+
+    box-shadow: 0px 0px 3px rgba(51, 51, 51, 0.40);
+    color: #333;
+
+    display: flex;
+    height: 50px;
+
+    margin: auto auto;
+    margin: 30px 0px 30px 0px;
+
+    border: 1px solid rgba(51, 51, 51, 0.4);
+
+}
+
+/* TABELA DE ACERTO */
+
+#acertos {
+
+    background-color: transparent;
+
+}
+
+/* TABELA DE ERRO */
+
+#erros {
+
+    background-color: transparent;
+
+}
+
+/* ------------------------------------------------------------------------------- */
