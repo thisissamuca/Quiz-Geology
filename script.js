@@ -12,102 +12,1462 @@ $(document).ready(() => {
 
     var perguntas = [
 
-        // 1
+    /* -------------------- ** Turmalina ** ----------------------- */
 
-        { pergunta: "Qual a dureza e o traço, respectivamente, da Calcita?",
+    {
 
-            respostas: ['2; Preto', '3; Branco', '4; Não possui traço', '1; Cinza'],
+        pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Turmalina?",
+        respostas: ["7; Não possui traço","7; Branco","6; Branco","6; Não possui traço"],
+        acerto: "resp0",
+        imagem: "<img src='https://cdn.shopify.com/s/files/1/0448/5156/0612/products/127b_9da1902d-7f06-4357-ad18-7e4447bdfcc4_530x@2x.jpg?v=1629891057' width='600px' height='400px' alt='Turmalina'>",
+    
+    },
+    
+    {
+    
+        pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Turmalina?",
+        respostas: ["Resinoso e/ou Vítreo; Transparente e/ou Translúcido","Nacarado e/ou Gorduroso; Transparente e/ou Translúcido","Vítreo e/ou Gorduroso; Opaco e/ou Translúcido","Sedoso e/ou Nacarado; Opaco e/ou Translúcido"],
+        acerto: "resp0",
+        imagem: "<img src='https://loja.simbolika.com.br/media/catalog/product/cache/37a9a8f3002fee25759059124a331b12/t/u/turmalina-bruta-150g.jpg' width='600px' height='400px' alt='Turmalina'>",
+    
+    },
 
-            acerto: "resp1",
+    {
+    
+        pergunta: "Qual a CLASSE de Turmalina?",
+        respostas: ["Silicatos","Carbonatos","Haletos","NItratos"],
+        acerto: "resp0",
+        imagem: "<img src='https://st2.depositphotos.com/4041005/6868/i/450/depositphotos_68689721-stock-photo-shorl-black-tourmaline.jpg' width='600px' height='400px' alt='Turmalina'>",
+    
+    },
 
-            imagem: "<img class='imagem' src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/calcita-6.jpg' alt='Calcita'>",
+    {
+    
+        pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Turmalina?",
+        respostas: ["Prismático; Sem Clivagem","Columar; Sem Clivagem","Laminado; Sem Clivagem","Lamelar; Sem Clivagem"],
+        acerto: "resp0",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2019/05/Turmalina-37-850x568.jpg' width='600px' height='400px' alt='Turmalina'>",
+    
+    },
+    
+    {
+    
+        pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Turmalina?",
+        respostas: ["Usada gema, mas também é usada na manufatura de medidores de pressão piezoelétricos","Usada como comsbustível de energia nuclear","Usada em construções civis","Usada como matéria prima em fábricas de automóveis"],
+        acerto: "resp0",
+        imagem: "<img src='http://evolucoaching.com.br/wp-content/uploads/2019/06/turmalina-negra-direto-do-garimpo-1000-kg-D_NQ_NP_631745-MLB29120692237_012019-F.jpg' width='600px' height='400px' alt='Turmalina'>",
+    
+    },
+    
+    {
+    
+        pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Turmalina?",
+        respostas: ["Conchoidal; Quebradiço","Irregular; Flexível","Fibroso; Quebradiço","Serrilhada; Maleável"],
+        acerto: "resp0",
+        imagem: "<img src='https://img.elo7.com.br/product/original/2C9CDCB/pedra-grande-turmalina-negra-bruta-1239-harmonizar.jpg' width='600px' height='400px' alt='Turmalina'>",
+    
+    },
+    
+    /* -------------------- ** Quartzo ** ----------------------- */
+    
+    {
+    
+        pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Quartzo?",
+        respostas: ["7; Não possui traço","7; Branco","8; Não possui traço","8; Branco"],
+        acerto: "resp0",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2018/02/Quartzo-9-850x567.jpg' width='600px' height='400px' alt='Quartzo'>",
+    
+    },
+    
+    {
+    
+        pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Quartzo?",
+        respostas: ["Vítreo e/ou Gorduroso; Opaco e/ou Transparente","Vítreo e/ou Gorduroso; Translúcido e/ou Transparente","Resinoso e/ou Nacarado; Opaco e/ou Transparente","Resinoso e/ou Nacarado; Translúcido e/ou Transparente"],
+        acerto: "resp0",
+        imagem: "<img src='https://www.globalminerio.com.br/wa_images/quartzo.jpg?v=1d8bith' width='600px' height='400px' alt='Quartzo'>",
+    
+    },
+    
+    {
+    
+        pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Quartzo?",
+        respostas: ["SiO2; Silicatos","SiO2; Carbonatos","CaCO3; Fosfatos","CaCO3; Haletos"],
+        acerto: "resp0",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2018/02/Quartzo2-7-850x567.jpg' width='600px' height='400px' alt='Quartzo'>",
+    
+    },
+    
+    {
+    
+        pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Quartzo?",
+        respostas: ["Prismático; Sem Clivagem","Colunar; Sem Clivagem","Prismático;","Colunar; Prismática"],
+        acerto: "resp0",
+        imagem: "<img src='https://blog.mbastosjoias.com.br/wp-content/uploads/2020/01/pedra-ametista.png' width='600px' height='400px' alt='Quartzo'>",
+    
+    },
+    
+    {
+    
+        pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Quartzo?",
+        respostas: ["Usado nas industrias de argamassa, vidro e tijolos e também em ornamentação ou como gema ","Usado na produção de telhas e amianto","Usado como combustível nuclear","Usado na produção de pisos de cerâmica"],
+        acerto: "resp0",
+        imagem: "<img src='https://www.vivernatural.com.br/wp-content/uploads/2019/10/ametista1-min.jpg' width='600px' height='400px' alt='Quartzo'>",
+    
+    },
+    
+    {
+    
+        pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Quartzo?",
+        respostas: ["Conchoidal; Quebradiço","Serrilhada; Quebradiço","Conchoidal; Dúctil","Serrilhada; Dúctil"],
+        acerto: "resp0",
+        imagem: "<img src='https://1.bp.blogspot.com/-ydeHH2FzpgU/YH9FjIGddaI/AAAAAAAABPw/5Oi1f4BZWdchtRGb10SmIzeWa8l4zUosgCLcBGAsYHQ/w1200-h630-p-k-no-nu/QUARTZO%2BTANGERINA%2B-%2B20.04.png' width='600px' height='400px' alt='Quartzo'>",
+    
+    },
+    
+    /* -------------------- ** Gipsita ** ----------------------- */
+    
+    {
+    
+        pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Gipsita?",
+        respostas: ["Entre 1,5 e 2; Branco","Entre 2 e 2,5; Não possui traço","Entre 2 e 3; Branco","Entre 2,5 e 3,5; Não possui traço"],
+        acerto: "resp0",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2019/02/Gipsita-14-850x567.jpg' width='600px' height='400px' alt='Gipsita'>",
+    
+    },
+    
+    {
+    
+        pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Gipsita?",
+        respostas: ["Nacarado e/ou Sedoso; Transparente e/ou Translúcido","Resinoso e/ou Sedoso; Translúcido e/ou Opaco","Vítreo e/ou Gorduroso; Transparente e/ou Translúcido","Vítreo e/ou Resinoso; Translúcido e/ou Opaco"],
+        acerto: "resp0",
+        imagem: "<img src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/gipsita-3.jpg' width='600px' height='400px' alt='Gipsita'>",
+    
+    },
+    
+    {
+    
+        pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Gipsita?",
+        respostas: ["CaSO4.2H2O; Sulfatos","CaCO3.2H2O; Hidróxidos","CaSO4.2H2O; Fosfatos","CaCO3.2H2O, Nitratos"],
+        acerto: "resp0",
+        imagem: "<img src='https://img.elo7.com.br/product/original/37FA950/gipsita-sobre-matriz-de-quartzo-fonstones-transparente.jpg' width='600px' height='400px' alt='Gipsita'>",
+    
+    },
+    
+    {
+    
+        pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Gipsita?",
+        respostas: ["Maciço, Lamelar e/ou Granular; Quatro direções","Maciço; Quatro direções","Lamelar; Quatro direções","Granular; Quatro direções"],
+        acerto: "resp0",
+        imagem: "<img src='https://static3.tcdn.com.br/img/img_prod/768811/gipsita_fibrosa_laranja_6_2_cm_52186_1_6bfbea94bf4eceb0677c6bbbd617cb27_20211006114614.jpg' width='600px' height='400px' alt='Gipsita'>",
+    
+    },
+    
+    {
+    
+        pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Gipsita?",
+        respostas: ["Produção de gesso, fertilizantes e fins ornamentais","Produção de tijolos e argamassa","Produção de telhas e amianto","Uso decorativo e ornamental"],
+        acerto: "resp0",
+        imagem: "<img src='https://http2.mlstatic.com/D_NQ_NP_647293-MLB29458038048_022019-O.webp' width='600px' height='400px' alt='Gipsita'>",
+    
+    },
+    
+    {
+    
+        pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Gipsita?",
+        respostas: ["Conchoidal; Flexível","Fibrosa; Flexível","Desigual; Fibrosa","Desigual; "],
+        acerto: "resp0",
+        imagem: "<img src='https://img.elo7.com.br/product/original/334D101/gipsita-sobre-calcita-em-bruto-1kg-gipsita.jpg' width='600px' height='400px' alt='Gipsita'>",
+    
+    },
+    
+    /* -------------------- ** Carvão Mineral ** ----------------------- */
+    
+    {
+    
+        pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Carvão Mineral?",
+        respostas: ["","","",""],
+        acerto: "resp0",
+        imagem: "",
+    
+    },
+    
+    {
+    
+        pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Carvão Mineral?",
+        respostas: ["","","",""],
+        acerto: "resp0",
+        imagem: "",
+    
+    },
+    
+    {
+    
+        pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Carvão Mineral?",
+        respostas: ["","","",""],
+        acerto: "resp0",
+        imagem: "",
+    
+    },
+    
+    {
+    
+        pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Carvão Mineral?",
+        respostas: ["","","",""],
+        acerto: "resp0",
+        imagem: "",
+    
+    },
+    
+    {
+    
+        pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Carvão Mineral?",
+        respostas: ["","","",""],
+        acerto: "resp0",
+        imagem: "",
+    
+    },
+    
+    {
+    
+        pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Carvão Mineral?",
+        respostas: ["","","",""],
+        acerto: "resp0",
+        imagem: "",
+    
+    },
+    
+    /* -------------------- ** Galena ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Galena?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Galena?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Galena?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Galena?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Galena?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Galena?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Calcita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Calcita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Calcita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Calcita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Calcita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Calcita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Calcita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Magnetita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Magnetita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Magnetita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Magnetita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Magnetita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Magnetita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Magnetita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Berilo ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Ortoclasio ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Ortoclasio?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Ortoclasio?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Ortoclasio?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Ortoclasio?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Ortoclasio?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Ortoclasio?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Cianita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Cianita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Cianita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Cianita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Cianita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Cianita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Cianita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Malaquita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Malaquita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Malaquita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Malaquita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Malaquita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Malaquita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Malaquita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Fluorita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Fluorita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Fluorita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Fluorita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Fluorita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Fluorita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Fluorita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Ágata ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Ágata?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Ágata?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Ágata?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Ágata?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Ágata?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Ágata?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Calcedônia ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Calcedônia?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Calcedônia?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Calcedônia?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Calcedônia?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Calcedônia?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Calcedônia?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Enxofre ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Enxofre?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Enxofre?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Enxofre?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Enxofre?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Enxofre?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Enxofre?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Pirita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Pirita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Pirita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Pirita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Pirita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Pirita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Pirita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Goethita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Goethita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Goethita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Goethita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Goethita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Goethita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Goethita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Muscovita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Muscovita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Muscovita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Muscovita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Muscovita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Muscovita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Muscovita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Feldspato ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Feldspato?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Feldspato?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Feldspato?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Feldspato?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Feldspato?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Feldspato?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Lepidolita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Lepidolita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Lepidolita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Lepidolita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Lepidolita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Lepidolita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Lepidolita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Sodalita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Sodalita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Sodalita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Sodalita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Sodalita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Sodalita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Sodalita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Berilo ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Berilo?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Selenita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Selenita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Selenita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Selenita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Selenita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Selenita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Selenita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Cassiterita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Cassiterita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Cassiterita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Cassiterita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Cassiterita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Cassiterita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Cassiterita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Vesuvienita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Vesuvienita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Vesuvienita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Vesuvienita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Vesuvienita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Vesuvienita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Vesuvienita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    /* -------------------- ** Vermiculita ** ----------------------- */
+    
+    {
+    
+    pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Vermiculita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Vermiculita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Vermiculita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Vermiculita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Vermiculita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
+    
+    {
+    
+    pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Vermiculita?",
+    respostas: ["","","",""],
+    acerto: "resp0",
+    imagem: "",
+    
+    },
 
-        },
-
-        // 2
-
-        { pergunta: "Qual o brilho e diafaneidade, respectivamente, da Calcita?",
-
-            respostas: ['Nacarado e/ou Vítreo; Opaco e/ou Transparente', 'Metálico e/ou Fosco; Translúcido e/ou Transparente', 'Gorduroso e/ou Vítreo; Opaco e/ou Translúcido', 'Resinoso e/ou Sedoso; Nenhuma'],
-
-            acerto: "resp0",
-
-            imagem: "<img class='imagem' src='https://images.tcdn.com.br/img/img_prod/630090/calcita_optica_pedra_natural_bruta_6585_7013_1_eccb34242667c59b1bf0e4383d51888c.jpg' alt='Calcita'>",
-
-        },  
-
-        // 3
-
-        { pergunta: "Qual a fórmula química da Calcita?",
-
-            respostas: ['CaCO3', 'CaCO4', 'Ca2CO3', 'Cu2(CO3)(OH)2'],
-
-            acerto: "resp0",
-
-            imagem: "<img class='imagem' src='https://img.elo7.com.br/product/original/319F835/calcita-otica-cristal.jpg' alt='Calcita'>",
-
-        },
-
-        // 4
-
-        { pergunta: "Qual a classe da Calcita?",
-
-            respostas: ['Sulfetos', 'Nitratos', 'Silicatos', 'Carbonatos'],
-
-            acerto: "resp3",
-
-            imagem: "<img class='imagem' src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/calcita-2-1024x683.jpg' alt='Calcita'>",
-
-        },
-
-        // 5
-
-        { pergunta: "Qual o hábito da Calcita?",
-
-            respostas: ['Lamelar, Colunar e/ou Prismático', 'Granular, Prismático e/ou Criptocristalino', 'Prismático, Romboédrico e/ou Escalenoédrico', 'Botrioidal, Coralóide e/ou Dentrico'],
-
-            acerto: "resp2",
-
-            imagem: "<img class='imagem' src='https://img.elo7.com.br/product/zoom/31DEAC9/calcita-azul-pedra-natural-bruta-5105-seguranca.jpg' alt='Calcita'>",
-
-        },
-
-
-        // 6
-        
-        { pergunta: "Qual a clivagem da Calcita?",
-
-            respostas: ['Perfeita e Romboédrica', 'Não possui Clivagem', 'Imperfeita', 'Perfeita e Prismática'],
-
-            acerto: "resp0",
-
-            imagem: "<img class='imagem' src='https://static3.tcdn.com.br/img/img_prod/768811/calcita_verde_4_6_cm_51059_1_a5e9a36d975a4289e0bd090c725e9e09_20211006112617.jpg' alt='Calcita'>",
-
-        },  
-
-        // 7
-        
-        { pergunta: "Quais as cores mais comuns da Calcita?",
-
-            respostas: ['Vermelho', 'Azul', 'Branco', 'Cinza'],
-
-            acerto: "resp2",
-
-            imagem: "<img class='imagem' src='https://pedrasecristais.com/wp-content/uploads/2018/06/Pedra-Calcita-1-900x500.jpg' alt='Calcita'>",
-
-        },  
-
-        // 8
-        
-        { pergunta: "Quais os usos da Calcita?",
-
-            respostas: ['Fabricação de telhas, cimento e cal', 'Fabricação de cimentos, cal, argamassa e corretor de PH do solo', 'Fabricação de telhas e cerâmicas em geral', 'Não possui uma utilização eficiente'],
-
-            acerto: "resp1",
-
-            imagem: "<img class='imagem' src='https://museuhe.com.br/site/wp-content/uploads/2019/02/Calcita-23-850x567.jpg' alt='Calcita'>",
-
-        },  
 
     ]
 
@@ -136,11 +1496,7 @@ $(document).ready(() => {
 
     function gerarPergunta(maxPerguntas) {
 
-        console.log('_________________________________________________________________________________________')
-
-        console.log('Chamando a função de gerar perguntas')
-
-        console.log(`O a quantidade máxima de perguntas é ${maxPerguntas}`)
+        console.log(`O a quantidade máxima de perguntas é ${maxPerguntas+1}`)
 
         console.log('-----------------------')
 

@@ -2,36 +2,29 @@
 /* -------------------- ** KEYFRAMES ** ----------------------- */
 @-webkit-keyframes rotate {
   0% {
-    -webkit-transform: rotate(-1deg);
-            transform: rotate(-1deg);
+    transform: rotate(-1deg);
   }
   20% {
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
+    transform: rotate(1deg);
   }
   100% {
-    -webkit-transform: rotate(-1deg);
-            transform: rotate(-1deg);
+    transform: rotate(-1deg);
   }
 }
 @keyframes rotate {
   0% {
-    -webkit-transform: rotate(-1deg);
-            transform: rotate(-1deg);
+    transform: rotate(-1deg);
   }
   20% {
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
+    transform: rotate(1deg);
   }
   100% {
-    -webkit-transform: rotate(-1deg);
-            transform: rotate(-1deg);
+    transform: rotate(-1deg);
   }
 }
-
 @-webkit-keyframes piscaErrado {
   0% {
-    background: #ff3232;
+    background: rgb(255, 50, 50);
     color: black;
   }
   50% {
@@ -39,14 +32,13 @@
     color: black;
   }
   100% {
-    background: #ff3232;
+    background: rgb(255, 50, 50);
     color: black;
   }
 }
-
 @keyframes piscaErrado {
   0% {
-    background: #ff3232;
+    background: rgb(255, 50, 50);
     color: black;
   }
   50% {
@@ -54,14 +46,13 @@
     color: black;
   }
   100% {
-    background: #ff3232;
+    background: rgb(255, 50, 50);
     color: black;
   }
 }
-
 @-webkit-keyframes piscaCerta {
   0% {
-    background: #47ff47;
+    background: rgb(71, 255, 71);
     color: black;
   }
   50% {
@@ -69,14 +60,13 @@
     color: black;
   }
   100% {
-    background: #21d421;
+    background: rgb(33, 212, 33);
     color: black;
   }
 }
-
 @keyframes piscaCerta {
   0% {
-    background: #47ff47;
+    background: rgb(71, 255, 71);
     color: black;
   }
   50% {
@@ -84,19 +74,17 @@
     color: black;
   }
   100% {
-    background: #21d421;
+    background: rgb(33, 212, 33);
     color: black;
   }
 }
-
 /* ------------------------------------------------------------------------------- */
 /* -------------------- ** MAIN ** ----------------------- */
 /* CAMPO RESPOSTAS */
 .resposta:hover {
-  background-color: #2949ff;
+  background-color: rgb(41, 73, 255);
   color: white;
-  -webkit-box-shadow: 0px 0px 25px rgba(51, 51, 51, 0.7);
-          box-shadow: 0px 0px 25px rgba(51, 51, 51, 0.7);
+  box-shadow: 0px 0px 25px rgba(51, 51, 51, 0.7);
   border: rgba(0, 0, 0, 0.357);
   border-radius: 8px;
   outline: none;
@@ -104,12 +92,12 @@
 
 .resposta:focus {
   outline: none;
-  -webkit-animation: rotate 1.0s linear infinite;
-          animation: rotate 1.0s linear infinite;
+  -webkit-animation: rotate 1s linear infinite;
+          animation: rotate 1s linear infinite;
 }
 
 .selecionada {
-  background-color: #fdc611;
+  background-color: rgb(253, 198, 17);
   display: block;
   border: 1px solid black;
   padding: 0px 20px 0px 20px;
@@ -118,53 +106,48 @@
   width: auto;
   min-width: 100%;
   height: 40px;
-  -webkit-transition: .5s;
-  transition: .5s;
+  transition: 0.5s;
 }
 
 .selecionada:hover {
-  background-color: #fdc611;
+  background-color: rgb(253, 198, 17);
   color: black;
 }
 
 .selecionada:focus {
   outline: none;
-  -webkit-animation: rotate 1.0s linear infinite;
-          animation: rotate 1.0s linear infinite;
+  -webkit-animation: rotate 1s linear infinite;
+          animation: rotate 1s linear infinite;
 }
 
 .errada {
-  background-color: #ff3232;
+  background-color: rgb(255, 50, 50);
   color: white;
-  -webkit-animation: piscaErrado .5s infinite;
-          animation: piscaErrado .5s infinite;
+  -webkit-animation: piscaErrado 0.5s infinite;
+          animation: piscaErrado 0.5s infinite;
 }
 
 .correta {
-  background-color: #47ff47;
+  background-color: rgb(71, 255, 71);
   color: white;
-  -webkit-animation: piscaCerta .5s infinite;
-          animation: piscaCerta .5s infinite;
+  -webkit-animation: piscaCerta 0.5s infinite;
+          animation: piscaCerta 0.5s infinite;
 }
 
 /* ------------------------------------------------------------------------------- */
 #novoJogo:hover {
-  background-color: #fdc611;
-  -webkit-box-shadow: 0px 0px 25px rgba(51, 51, 51, 0.7);
-          box-shadow: 0px 0px 25px rgba(51, 51, 51, 0.7);
+  background-color: rgb(253, 198, 17);
+  box-shadow: 0px 0px 25px rgba(51, 51, 51, 0.7);
   color: black;
 }
 
 /* ------------------------------------------------------------------------------- */
 /* -------------------- ** FOOTER ** ----------------------- */
 #verific:hover {
-  background-color: #fdc611;
+  background-color: rgb(253, 198, 17);
   color: #333;
-  -webkit-box-shadow: 0px 0px 10px #333;
-          box-shadow: 0px 0px 10px #333;
-  -webkit-transition: .5s;
-  transition: .5s;
+  box-shadow: 0px 0px 10px #333;
+  transition: 0.5s;
 }
 
-/* ------------------------------------------------------------------------------- */
-/*# sourceMappingURL=effects.css.map */
+/* ------------------------------------------------------------------------------- *//*# sourceMappingURL=effects.css.map */
