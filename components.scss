@@ -2,40 +2,6 @@
 
 /* -------------------- ** HEADER ** ----------------------- */
 
-#sairBtn {
-
-    border: none;
-    outline: none;
-
-    width: 50px;
-
-}
-
-#sairImg {
-
-    width: 50px;
-
-    border: none;
-    border-radius: 50%;
-    outline: none;
-
-}
-
-.btnControl {
-
-    background-color: white;
-
-    border: none;
-    border-radius: 50%;
-    outline: none;
-
-    margin-top: 30px;
-
-    width: 50px;
-    height: 100%;
-
-}
-
 /* ------------------------------------------------------------------------------- */
 
 /* -------------------- ** MAIN ** ----------------------- */
@@ -47,17 +13,16 @@
     background-color: white;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
 
-    margin: 60px 0px 60px 0px;
+    margin: 20px 0px 20px 0px;
 
     border: 1px solid rgba(0, 0, 0, 0.30);
     border-radius: 8px;
 
 }
 
-.imagem {
+#figure {
 
-    width: 800px;
-    height: 500px;
+    margin: auto auto;
 
 }
 
@@ -194,6 +159,13 @@
     cursor: pointer;
     transition: 1s;
 
+}
+
+h3 {
+
+    font-weight: bold;
+
+    margin: auto auto;
 }
 
 /* TABELA */

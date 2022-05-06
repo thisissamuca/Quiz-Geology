@@ -19,7 +19,7 @@ $(document).ready(() => {
         pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Turmalina?",
         respostas: ["7; Não possui traço","7; Branco","6; Branco","6; Não possui traço"],
         acerto: "resp0",
-        imagem: "<img src='https://cdn.shopify.com/s/files/1/0448/5156/0612/products/127b_9da1902d-7f06-4357-ad18-7e4447bdfcc4_530x@2x.jpg?v=1629891057' width='600px' height='400px' alt='Turmalina'>",
+        imagem: "<img src='https://cdn.shopify.com/s/files/1/0448/5156/0612/products/127b_9da1902d-7f06-4357-ad18-7e4447bdfcc4_530x@2x.jpg?v=1629891057' width='48%' height='18%' alt='Turmalina'>",
     
     },
     
@@ -28,7 +28,7 @@ $(document).ready(() => {
         pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Turmalina?",
         respostas: ["Resinoso e/ou Vítreo; Transparente e/ou Translúcido","Nacarado e/ou Gorduroso; Transparente e/ou Translúcido","Vítreo e/ou Gorduroso; Opaco e/ou Translúcido","Sedoso e/ou Nacarado; Opaco e/ou Translúcido"],
         acerto: "resp0",
-        imagem: "<img src='https://loja.simbolika.com.br/media/catalog/product/cache/37a9a8f3002fee25759059124a331b12/t/u/turmalina-bruta-150g.jpg' width='600px' height='400px' alt='Turmalina'>",
+        imagem: "<img src='https://loja.simbolika.com.br/media/catalog/product/cache/37a9a8f3002fee25759059124a331b12/t/u/turmalina-bruta-150g.jpg' width='48%' height='18%' alt='Turmalina'>",
     
     },
 
@@ -37,7 +37,7 @@ $(document).ready(() => {
         pergunta: "Qual a CLASSE de Turmalina?",
         respostas: ["Silicatos","Carbonatos","Haletos","NItratos"],
         acerto: "resp0",
-        imagem: "<img src='https://st2.depositphotos.com/4041005/6868/i/450/depositphotos_68689721-stock-photo-shorl-black-tourmaline.jpg' width='600px' height='400px' alt='Turmalina'>",
+        imagem: "<img src='https://st2.depositphotos.com/4041005/6868/i/450/depositphotos_68689721-stock-photo-shorl-black-tourmaline.jpg' width='48%' height='18%' alt='Turmalina'>",
     
     },
 
@@ -46,7 +46,7 @@ $(document).ready(() => {
         pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Turmalina?",
         respostas: ["Prismático; Sem Clivagem","Columar; Sem Clivagem","Laminado; Sem Clivagem","Lamelar; Sem Clivagem"],
         acerto: "resp0",
-        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2019/05/Turmalina-37-850x568.jpg' width='600px' height='400px' alt='Turmalina'>",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2019/05/Turmalina-37-850x568.jpg' width='48%' height='18%' alt='Turmalina'>",
     
     },
     
@@ -55,7 +55,7 @@ $(document).ready(() => {
         pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Turmalina?",
         respostas: ["Usada gema, mas também é usada na manufatura de medidores de pressão piezoelétricos","Usada como comsbustível de energia nuclear","Usada em construções civis","Usada como matéria prima em fábricas de automóveis"],
         acerto: "resp0",
-        imagem: "<img src='http://evolucoaching.com.br/wp-content/uploads/2019/06/turmalina-negra-direto-do-garimpo-1000-kg-D_NQ_NP_631745-MLB29120692237_012019-F.jpg' width='600px' height='400px' alt='Turmalina'>",
+        imagem: "<img src='http://evolucoaching.com.br/wp-content/uploads/2019/06/turmalina-negra-direto-do-garimpo-1000-kg-D_NQ_NP_631745-MLB29120692237_012019-F.jpg' width='48%' height='18%' alt='Turmalina'>",
     
     },
     
@@ -64,7 +64,7 @@ $(document).ready(() => {
         pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Turmalina?",
         respostas: ["Conchoidal; Quebradiço","Irregular; Flexível","Fibroso; Quebradiço","Serrilhada; Maleável"],
         acerto: "resp0",
-        imagem: "<img src='https://img.elo7.com.br/product/original/2C9CDCB/pedra-grande-turmalina-negra-bruta-1239-harmonizar.jpg' width='600px' height='400px' alt='Turmalina'>",
+        imagem: "<img src='https://img.elo7.com.br/product/original/2C9CDCB/pedra-grande-turmalina-negra-bruta-1239-harmonizar.jpg' width='48%' height='18%' alt='Turmalina'>",
     
     },
     
@@ -75,7 +75,7 @@ $(document).ready(() => {
         pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Quartzo?",
         respostas: ["7; Não possui traço","7; Branco","8; Não possui traço","8; Branco"],
         acerto: "resp0",
-        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2018/02/Quartzo-9-850x567.jpg' width='600px' height='400px' alt='Quartzo'>",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2018/02/Quartzo-9-850x567.jpg' width='48%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -84,7 +84,7 @@ $(document).ready(() => {
         pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Quartzo?",
         respostas: ["Vítreo e/ou Gorduroso; Opaco e/ou Transparente","Vítreo e/ou Gorduroso; Translúcido e/ou Transparente","Resinoso e/ou Nacarado; Opaco e/ou Transparente","Resinoso e/ou Nacarado; Translúcido e/ou Transparente"],
         acerto: "resp0",
-        imagem: "<img src='https://www.globalminerio.com.br/wa_images/quartzo.jpg?v=1d8bith' width='600px' height='400px' alt='Quartzo'>",
+        imagem: "<img src='https://www.globalminerio.com.br/wa_images/quartzo.jpg?v=1d8bith' width='48%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -93,7 +93,7 @@ $(document).ready(() => {
         pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Quartzo?",
         respostas: ["SiO2; Silicatos","SiO2; Carbonatos","CaCO3; Fosfatos","CaCO3; Haletos"],
         acerto: "resp0",
-        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2018/02/Quartzo2-7-850x567.jpg' width='600px' height='400px' alt='Quartzo'>",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2018/02/Quartzo2-7-850x567.jpg' width='48%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -102,7 +102,7 @@ $(document).ready(() => {
         pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Quartzo?",
         respostas: ["Prismático; Sem Clivagem","Colunar; Sem Clivagem","Prismático;","Colunar; Prismática"],
         acerto: "resp0",
-        imagem: "<img src='https://blog.mbastosjoias.com.br/wp-content/uploads/2020/01/pedra-ametista.png' width='600px' height='400px' alt='Quartzo'>",
+        imagem: "<img src='https://blog.mbastosjoias.com.br/wp-content/uploads/2020/01/pedra-ametista.png' width='48%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -111,7 +111,7 @@ $(document).ready(() => {
         pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Quartzo?",
         respostas: ["Usado nas industrias de argamassa, vidro e tijolos e também em ornamentação ou como gema ","Usado na produção de telhas e amianto","Usado como combustível nuclear","Usado na produção de pisos de cerâmica"],
         acerto: "resp0",
-        imagem: "<img src='https://www.vivernatural.com.br/wp-content/uploads/2019/10/ametista1-min.jpg' width='600px' height='400px' alt='Quartzo'>",
+        imagem: "<img src='https://www.vivernatural.com.br/wp-content/uploads/2019/10/ametista1-min.jpg' width='48%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -120,7 +120,7 @@ $(document).ready(() => {
         pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Quartzo?",
         respostas: ["Conchoidal; Quebradiço","Serrilhada; Quebradiço","Conchoidal; Dúctil","Serrilhada; Dúctil"],
         acerto: "resp0",
-        imagem: "<img src='https://1.bp.blogspot.com/-ydeHH2FzpgU/YH9FjIGddaI/AAAAAAAABPw/5Oi1f4BZWdchtRGb10SmIzeWa8l4zUosgCLcBGAsYHQ/w1200-h630-p-k-no-nu/QUARTZO%2BTANGERINA%2B-%2B20.04.png' width='600px' height='400px' alt='Quartzo'>",
+        imagem: "<img src='https://1.bp.blogspot.com/-ydeHH2FzpgU/YH9FjIGddaI/AAAAAAAABPw/5Oi1f4BZWdchtRGb10SmIzeWa8l4zUosgCLcBGAsYHQ/w1200-h630-p-k-no-nu/QUARTZO%2BTANGERINA%2B-%2B20.04.png' width='48%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -131,7 +131,7 @@ $(document).ready(() => {
         pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Gipsita?",
         respostas: ["Entre 1,5 e 2; Branco","Entre 2 e 2,5; Não possui traço","Entre 2 e 3; Branco","Entre 2,5 e 3,5; Não possui traço"],
         acerto: "resp0",
-        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2019/02/Gipsita-14-850x567.jpg' width='600px' height='400px' alt='Gipsita'>",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2019/02/Gipsita-14-850x567.jpg' width='48%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -140,7 +140,7 @@ $(document).ready(() => {
         pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Gipsita?",
         respostas: ["Nacarado e/ou Sedoso; Transparente e/ou Translúcido","Resinoso e/ou Sedoso; Translúcido e/ou Opaco","Vítreo e/ou Gorduroso; Transparente e/ou Translúcido","Vítreo e/ou Resinoso; Translúcido e/ou Opaco"],
         acerto: "resp0",
-        imagem: "<img src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/gipsita-3.jpg' width='600px' height='400px' alt='Gipsita'>",
+        imagem: "<img src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/gipsita-3.jpg' width='48%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -149,7 +149,7 @@ $(document).ready(() => {
         pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Gipsita?",
         respostas: ["CaSO4.2H2O; Sulfatos","CaCO3.2H2O; Hidróxidos","CaSO4.2H2O; Fosfatos","CaCO3.2H2O, Nitratos"],
         acerto: "resp0",
-        imagem: "<img src='https://img.elo7.com.br/product/original/37FA950/gipsita-sobre-matriz-de-quartzo-fonstones-transparente.jpg' width='600px' height='400px' alt='Gipsita'>",
+        imagem: "<img src='https://img.elo7.com.br/product/original/37FA950/gipsita-sobre-matriz-de-quartzo-fonstones-transparente.jpg' width='48%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -158,7 +158,7 @@ $(document).ready(() => {
         pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Gipsita?",
         respostas: ["Maciço, Lamelar e/ou Granular; Quatro direções","Maciço; Quatro direções","Lamelar; Quatro direções","Granular; Quatro direções"],
         acerto: "resp0",
-        imagem: "<img src='https://static3.tcdn.com.br/img/img_prod/768811/gipsita_fibrosa_laranja_6_2_cm_52186_1_6bfbea94bf4eceb0677c6bbbd617cb27_20211006114614.jpg' width='600px' height='400px' alt='Gipsita'>",
+        imagem: "<img src='https://static3.tcdn.com.br/img/img_prod/768811/gipsita_fibrosa_laranja_6_2_cm_52186_1_6bfbea94bf4eceb0677c6bbbd617cb27_20211006114614.jpg' width='48%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -167,7 +167,7 @@ $(document).ready(() => {
         pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Gipsita?",
         respostas: ["Produção de gesso, fertilizantes e fins ornamentais","Produção de tijolos e argamassa","Produção de telhas e amianto","Uso decorativo e ornamental"],
         acerto: "resp0",
-        imagem: "<img src='https://http2.mlstatic.com/D_NQ_NP_647293-MLB29458038048_022019-O.webp' width='600px' height='400px' alt='Gipsita'>",
+        imagem: "<img src='https://http2.mlstatic.com/D_NQ_NP_647293-MLB29458038048_022019-O.webp' width='48%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -176,7 +176,7 @@ $(document).ready(() => {
         pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Gipsita?",
         respostas: ["Conchoidal; Flexível","Fibrosa; Flexível","Desigual; Fibrosa","Desigual; "],
         acerto: "resp0",
-        imagem: "<img src='https://img.elo7.com.br/product/original/334D101/gipsita-sobre-calcita-em-bruto-1kg-gipsita.jpg' width='600px' height='400px' alt='Gipsita'>",
+        imagem: "<img src='https://img.elo7.com.br/product/original/334D101/gipsita-sobre-calcita-em-bruto-1kg-gipsita.jpg' width='48%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -1502,7 +1502,7 @@ $(document).ready(() => {
 
         // Gerar um número aleatório que é o indice da pergunta que será feita
 
-        let aleatorio = Number((Math.random() * maxPerguntas).toFixed())
+        let aleatorio = 0
 
         console.log(`O número aleatório gerado é ${aleatorio}`)
 
@@ -1819,29 +1819,33 @@ $(document).ready(() => {
 
         // Condições em função do resultado para fixar um GIF no final do jogo
 
-        if (acertos.length <= 5) {
-
-            $('#imgDesempenho').html("<img src='https://i.pinimg.com/originals/a2/42/20/a242206ce688c2234c2d5ed4e98a1573.gif' alt=''>")
+        if (acertos.length <= 20) {
 
             $('#desempenho').html(`Tem certeza que você está estudando direito? Seu desempenho foi de ${razao*100}%`)
 
-        } else if (acertos.length <= 10) {
-
-            $('#imgDesempenho').html("<img src='https://thumbs.gfycat.com/EminentCharmingAustraliancattledog-size_restricted.gif' alt=''>")
+        } else if (acertos.length <= 40) {
 
             $('#desempenho').html(`Convenhamos... Poderia ser melhor, né. Seu desempenho foi de ${razao*100}%`)
 
-        } else if (acertos.length <= 15) {
+        } else if (acertos.length <= 80) {
 
-            $('#imgDesempenho').html("<img src='https://i.pinimg.com/originals/c1/af/2b/c1af2b8bd355006014ac1b11a06904c6.gif' alt=''>")
+            $('#desempenho').html(`Você foi bem! Seu desempenho foi de ${razao*100}%`)
 
-            $('#desempenho').html(`Você foi incrível! Seu desempenho foi de ${razao*100}%`)
+        } else if (acertos.length <= 100) {
 
-        } else if (acertos.length = 20) {
+            $('#desempenho').html(`Você foi ótimo! Seu desempenho foi de ${razao*100}%`)
 
-            $('#imgDesempenho').html("<img src='https://c.tenor.com/kVJlKG9tUm8AAAAC/leonardo-dicaprio-leo-dicaprio.gif' alt=''>")
+        } else if (acertos.length <= 120) {
+
+            $('#desempenho').html(`Você foi incrível! Sê é o bixão mesmo em doido! Seu desempenho foi de ${razao*100}%`)
+
+        } else if (acertos.length <= 150) {
 
             $('#desempenho').html(`Perfeito! Sê é o bixão mesmo em doido! Seu desempenho foi de ${razao*100}%`)
+
+        } else if (acertos.length = qtdPerguntas + 1) {
+
+            $('#desempenho').html(`Perfeito! Você acertou todas as perguntas! Seu desempenho foi de 100%`)
 
         };
 

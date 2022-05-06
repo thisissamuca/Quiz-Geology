@@ -1,15 +1,22 @@
 @media (max-width: 1024px) {
 
-    .imagem {
+    h3 { 
 
-        width: 600px;
-        height: 400px;
-    
+        font-size: 18px;
+        font-weight: bold;
+        margin: auto auto;
+
     };
 
     .table {
     
         transform: scale(0.9)
+
+    };
+    
+    .resposta {
+
+        font-size: 14px
 
     };
 
@@ -23,13 +30,34 @@
 
 }
 
+@media (max-width: 991px) {
+
+    h2 {
+
+        font-size: 17px;
+
+    };
+
+    #verific {
+
+        transform: scale(0.8)
+
+    };
+
+    .resposta {
+
+        font-size: 11px
+
+    };
+
+}
+
 @media (max-width: 768px) {
 
-    .imagem {
+    h2 {
 
-        width: 450px;
-        height: 300px;
-    
+        font-size: 16px;
+        
     };
 
     #verific {
@@ -47,28 +75,168 @@
     
 }
 
-@media (max-width: 425px) {
+@media (max-width: 540px) {
 
-    .imagem {
+    h2 {
 
-        width: 270px;
-        height: 170px;
-    
+        font-size: 13px;
+        
     };
 
-    #verific {
-        
-        width: 150px;
-        height: 25px;
-        margin-top: 42px;
-        margin-left: 5px;
-    
+    .quiz {
+
+        transform: scale(.95);
+
+    };
+
+    .resposta {
+
+        height: 30px;
+
+    };
+
+    h3 { 
+
+        font-size: 14px;
+
     };
 
     .table {
     
-        transform: scale(0.6)
+        transform: scale(0.7);
+        margin: 15px 0px 10px 0px;
+
+    };
+
+    #respostas {
+
+        margin: 10px 20px 0px 20px;
+
+    };
+
+    #verific {
+
+        margin: 20px 0px 10px 0px;
+
+    };
+
+}
+
+@media (max-width: 460px) {
+
+    h2 {
+
+        font-size: 10px;
+        
+    };
+
+    .quiz {
+
+        transform: scale(.90);
+
+    };
+
+    .resposta {
+
+        height: 28px;
+        font-size: 8px
+
+    };
+
+    h3 { 
+
+        font-size: 12px;
+
+    };
+
+    .table {
+    
+        transform: scale(0.7);
+        margin: 10px 0px 10px 0px;
+
+    };
+
+    #respostas {
+
+        margin: 10px 20px 0px 20px;
+
+    };
+
+    #verific {
+
+        margin: 15px 0px 10px 0px;
 
     };
     
+}
+
+@media (max-width: 340px) {
+
+    h2 {
+
+        font-size: 9px;
+        
+    };
+
+    .quiz {
+
+        transform: scale(.85);
+
+    };
+
+    .resposta {
+
+        height: 25px;
+        font-size: 6px
+
+    };
+
+    h3 { 
+
+        font-size: 10px;
+
+    };
+
+    .table {
+    
+        transform: scale(0.5);
+        margin: 10px 0px 10px 0px;
+
+    };
+
+}
+
+@media (max-width: 280px) {
+
+    h2 {
+
+        font-size: 6px;
+        
+    };
+
+    .quiz {
+
+        transform: scale(.80);
+
+    };
+
+    .resposta {
+
+        height: 20px;
+        font-size: 4px
+
+    };
+
+    h3 { 
+
+        font-size: 8px;
+
+    };
+
+    .table {
+    
+        transform: scale(0.4);
+
+    };
+
 }
