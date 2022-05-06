@@ -19,7 +19,7 @@ $(document).ready(() => {
         pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Turmalina?",
         respostas: ["7; Não possui traço","7; Branco","6; Branco","6; Não possui traço"],
         acerto: "resp0",
-        imagem: "<img src='https://cdn.shopify.com/s/files/1/0448/5156/0612/products/127b_9da1902d-7f06-4357-ad18-7e4447bdfcc4_530x@2x.jpg?v=1629891057' width='48%' height='18%' alt='Turmalina'>",
+        imagem: "<img src='https://cdn.shopify.com/s/files/1/0448/5156/0612/products/127b_9da1902d-7f06-4357-ad18-7e4447bdfcc4_530x@2x.jpg?v=1629891057' width='55%' height='18%' alt='Turmalina'>",
     
     },
     
@@ -28,7 +28,7 @@ $(document).ready(() => {
         pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Turmalina?",
         respostas: ["Resinoso e/ou Vítreo; Transparente e/ou Translúcido","Nacarado e/ou Gorduroso; Transparente e/ou Translúcido","Vítreo e/ou Gorduroso; Opaco e/ou Translúcido","Sedoso e/ou Nacarado; Opaco e/ou Translúcido"],
         acerto: "resp0",
-        imagem: "<img src='https://loja.simbolika.com.br/media/catalog/product/cache/37a9a8f3002fee25759059124a331b12/t/u/turmalina-bruta-150g.jpg' width='48%' height='18%' alt='Turmalina'>",
+        imagem: "<img src='https://loja.simbolika.com.br/media/catalog/product/cache/37a9a8f3002fee25759059124a331b12/t/u/turmalina-bruta-150g.jpg' width='55%' height='18%' alt='Turmalina'>",
     
     },
 
@@ -37,7 +37,7 @@ $(document).ready(() => {
         pergunta: "Qual a CLASSE de Turmalina?",
         respostas: ["Silicatos","Carbonatos","Haletos","NItratos"],
         acerto: "resp0",
-        imagem: "<img src='https://st2.depositphotos.com/4041005/6868/i/450/depositphotos_68689721-stock-photo-shorl-black-tourmaline.jpg' width='48%' height='18%' alt='Turmalina'>",
+        imagem: "<img src='https://st2.depositphotos.com/4041005/6868/i/450/depositphotos_68689721-stock-photo-shorl-black-tourmaline.jpg' width='55%' height='18%' alt='Turmalina'>",
     
     },
 
@@ -46,16 +46,16 @@ $(document).ready(() => {
         pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Turmalina?",
         respostas: ["Prismático; Sem Clivagem","Columar; Sem Clivagem","Laminado; Sem Clivagem","Lamelar; Sem Clivagem"],
         acerto: "resp0",
-        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2019/05/Turmalina-37-850x568.jpg' width='48%' height='18%' alt='Turmalina'>",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2019/05/Turmalina-37-850x568.jpg' width='55%' height='18%' alt='Turmalina'>",
     
     },
     
     {
     
         pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Turmalina?",
-        respostas: ["Usada gema, mas também é usada na manufatura de medidores de pressão piezoelétricos","Usada como comsbustível de energia nuclear","Usada em construções civis","Usada como matéria prima em fábricas de automóveis"],
+        respostas: ["Usada gema, mas também é usada na manufatura de medidores de pressão piezoelétricos; Encontrada nos pegmatitos graníticos","Usada como comsbustível de energia nuclear; Encontrada nos pegmatitos graníticos","Usada em construções civis; Encontrada em bacias sedimentares","Usada como matéria prima em fábricas de automóveis; Encontrada em bacias sedimentares"],
         acerto: "resp0",
-        imagem: "<img src='http://evolucoaching.com.br/wp-content/uploads/2019/06/turmalina-negra-direto-do-garimpo-1000-kg-D_NQ_NP_631745-MLB29120692237_012019-F.jpg' width='48%' height='18%' alt='Turmalina'>",
+        imagem: "<img src='http://evolucoaching.com.br/wp-content/uploads/2019/06/turmalina-negra-direto-do-garimpo-1000-kg-D_NQ_NP_631745-MLB29120692237_012019-F.jpg' width='55%' height='18%' alt='Turmalina'>",
     
     },
     
@@ -64,7 +64,7 @@ $(document).ready(() => {
         pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Turmalina?",
         respostas: ["Conchoidal; Quebradiço","Irregular; Flexível","Fibroso; Quebradiço","Serrilhada; Maleável"],
         acerto: "resp0",
-        imagem: "<img src='https://img.elo7.com.br/product/original/2C9CDCB/pedra-grande-turmalina-negra-bruta-1239-harmonizar.jpg' width='48%' height='18%' alt='Turmalina'>",
+        imagem: "<img src='https://img.elo7.com.br/product/original/2C9CDCB/pedra-grande-turmalina-negra-bruta-1239-harmonizar.jpg' width='55%' height='18%' alt='Turmalina'>",
     
     },
     
@@ -75,7 +75,7 @@ $(document).ready(() => {
         pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Quartzo?",
         respostas: ["7; Não possui traço","7; Branco","8; Não possui traço","8; Branco"],
         acerto: "resp0",
-        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2018/02/Quartzo-9-850x567.jpg' width='48%' height='18%' alt='Quartzo'>",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2018/02/Quartzo-9-850x567.jpg' width='55%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -84,7 +84,7 @@ $(document).ready(() => {
         pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Quartzo?",
         respostas: ["Vítreo e/ou Gorduroso; Opaco e/ou Transparente","Vítreo e/ou Gorduroso; Translúcido e/ou Transparente","Resinoso e/ou Nacarado; Opaco e/ou Transparente","Resinoso e/ou Nacarado; Translúcido e/ou Transparente"],
         acerto: "resp0",
-        imagem: "<img src='https://www.globalminerio.com.br/wa_images/quartzo.jpg?v=1d8bith' width='48%' height='18%' alt='Quartzo'>",
+        imagem: "<img src='https://www.globalminerio.com.br/wa_images/quartzo.jpg?v=1d8bith' width='55%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -93,7 +93,7 @@ $(document).ready(() => {
         pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Quartzo?",
         respostas: ["SiO2; Silicatos","SiO2; Carbonatos","CaCO3; Fosfatos","CaCO3; Haletos"],
         acerto: "resp0",
-        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2018/02/Quartzo2-7-850x567.jpg' width='48%' height='18%' alt='Quartzo'>",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2018/02/Quartzo2-7-850x567.jpg' width='55%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -102,16 +102,16 @@ $(document).ready(() => {
         pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Quartzo?",
         respostas: ["Prismático; Sem Clivagem","Colunar; Sem Clivagem","Prismático;","Colunar; Prismática"],
         acerto: "resp0",
-        imagem: "<img src='https://blog.mbastosjoias.com.br/wp-content/uploads/2020/01/pedra-ametista.png' width='48%' height='18%' alt='Quartzo'>",
+        imagem: "<img src='https://blog.mbastosjoias.com.br/wp-content/uploads/2020/01/pedra-ametista.png' width='55%' height='18%' alt='Quartzo'>",
     
     },
     
     {
     
         pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Quartzo?",
-        respostas: ["Usado nas industrias de argamassa, vidro e tijolos e também em ornamentação ou como gema ","Usado na produção de telhas e amianto","Usado como combustível nuclear","Usado na produção de pisos de cerâmica"],
+        respostas: ["Usado nas industrias de argamassa, vidro e tijolos e ornamentação; Constituinte de rochas ígneas ácidas","Usado na produção de telhas e amianto; Constituinte de rochas ígneas ácidas ou recristalização de soluções ricas em silíca","Usado como combustível nuclear; Encontrado em bacias sedimentares","Usado na produção de pisos de cerâmica; Encontrado em bacias sedimentares"],
         acerto: "resp0",
-        imagem: "<img src='https://www.vivernatural.com.br/wp-content/uploads/2019/10/ametista1-min.jpg' width='48%' height='18%' alt='Quartzo'>",
+        imagem: "<img src='https://www.vivernatural.com.br/wp-content/uploads/2019/10/ametista1-min.jpg' width='55%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -120,7 +120,7 @@ $(document).ready(() => {
         pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Quartzo?",
         respostas: ["Conchoidal; Quebradiço","Serrilhada; Quebradiço","Conchoidal; Dúctil","Serrilhada; Dúctil"],
         acerto: "resp0",
-        imagem: "<img src='https://1.bp.blogspot.com/-ydeHH2FzpgU/YH9FjIGddaI/AAAAAAAABPw/5Oi1f4BZWdchtRGb10SmIzeWa8l4zUosgCLcBGAsYHQ/w1200-h630-p-k-no-nu/QUARTZO%2BTANGERINA%2B-%2B20.04.png' width='48%' height='18%' alt='Quartzo'>",
+        imagem: "<img src='https://1.bp.blogspot.com/-ydeHH2FzpgU/YH9FjIGddaI/AAAAAAAABPw/5Oi1f4BZWdchtRGb10SmIzeWa8l4zUosgCLcBGAsYHQ/w1200-h630-p-k-no-nu/QUARTZO%2BTANGERINA%2B-%2B20.04.png' width='55%' height='18%' alt='Quartzo'>",
     
     },
     
@@ -131,7 +131,7 @@ $(document).ready(() => {
         pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Gipsita?",
         respostas: ["Entre 1,5 e 2; Branco","Entre 2 e 2,5; Não possui traço","Entre 2 e 3; Branco","Entre 2,5 e 3,5; Não possui traço"],
         acerto: "resp0",
-        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2019/02/Gipsita-14-850x567.jpg' width='48%' height='18%' alt='Gipsita'>",
+        imagem: "<img src='https://museuhe.com.br/site/wp-content/uploads/2019/02/Gipsita-14-850x567.jpg' width='55%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -140,7 +140,7 @@ $(document).ready(() => {
         pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Gipsita?",
         respostas: ["Nacarado e/ou Sedoso; Transparente e/ou Translúcido","Resinoso e/ou Sedoso; Translúcido e/ou Opaco","Vítreo e/ou Gorduroso; Transparente e/ou Translúcido","Vítreo e/ou Resinoso; Translúcido e/ou Opaco"],
         acerto: "resp0",
-        imagem: "<img src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/gipsita-3.jpg' width='48%' height='18%' alt='Gipsita'>",
+        imagem: "<img src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/gipsita-3.jpg' width='55%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -149,7 +149,7 @@ $(document).ready(() => {
         pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Gipsita?",
         respostas: ["CaSO4.2H2O; Sulfatos","CaCO3.2H2O; Hidróxidos","CaSO4.2H2O; Fosfatos","CaCO3.2H2O, Nitratos"],
         acerto: "resp0",
-        imagem: "<img src='https://img.elo7.com.br/product/original/37FA950/gipsita-sobre-matriz-de-quartzo-fonstones-transparente.jpg' width='48%' height='18%' alt='Gipsita'>",
+        imagem: "<img src='https://img.elo7.com.br/product/original/37FA950/gipsita-sobre-matriz-de-quartzo-fonstones-transparente.jpg' width='55%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -158,16 +158,16 @@ $(document).ready(() => {
         pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Gipsita?",
         respostas: ["Maciço, Lamelar e/ou Granular; Quatro direções","Maciço; Quatro direções","Lamelar; Quatro direções","Granular; Quatro direções"],
         acerto: "resp0",
-        imagem: "<img src='https://static3.tcdn.com.br/img/img_prod/768811/gipsita_fibrosa_laranja_6_2_cm_52186_1_6bfbea94bf4eceb0677c6bbbd617cb27_20211006114614.jpg' width='48%' height='18%' alt='Gipsita'>",
+        imagem: "<img src='https://static3.tcdn.com.br/img/img_prod/768811/gipsita_fibrosa_laranja_6_2_cm_52186_1_6bfbea94bf4eceb0677c6bbbd617cb27_20211006114614.jpg' width='55%' height='18%' alt='Gipsita'>",
     
     },
     
     {
     
         pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Gipsita?",
-        respostas: ["Produção de gesso, fertilizantes e fins ornamentais","Produção de tijolos e argamassa","Produção de telhas e amianto","Uso decorativo e ornamental"],
+        respostas: ["Produção de gesso, fertilizantes e fins ornamentais; Formado pela alteração de Anidrita","Produção de tijolos e argamassa; Formado pela alteração de Anidrita","Produção de telhas e amianto; Formado pela alteração da Calcita","Uso decorativo e ornamental; Formado pela alteração da Calcita"],
         acerto: "resp0",
-        imagem: "<img src='https://http2.mlstatic.com/D_NQ_NP_647293-MLB29458038048_022019-O.webp' width='48%' height='18%' alt='Gipsita'>",
+        imagem: "<img src='https://http2.mlstatic.com/D_NQ_NP_647293-MLB29458038048_022019-O.webp' width='55%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -176,63 +176,7 @@ $(document).ready(() => {
         pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Gipsita?",
         respostas: ["Conchoidal; Flexível","Fibrosa; Flexível","Desigual; Fibrosa","Desigual; "],
         acerto: "resp0",
-        imagem: "<img src='https://img.elo7.com.br/product/original/334D101/gipsita-sobre-calcita-em-bruto-1kg-gipsita.jpg' width='48%' height='18%' alt='Gipsita'>",
-    
-    },
-    
-    /* -------------------- ** Carvão Mineral ** ----------------------- */
-    
-    {
-    
-        pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Carvão Mineral?",
-        respostas: ["","","",""],
-        acerto: "resp0",
-        imagem: "",
-    
-    },
-    
-    {
-    
-        pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Carvão Mineral?",
-        respostas: ["","","",""],
-        acerto: "resp0",
-        imagem: "",
-    
-    },
-    
-    {
-    
-        pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Carvão Mineral?",
-        respostas: ["","","",""],
-        acerto: "resp0",
-        imagem: "",
-    
-    },
-    
-    {
-    
-        pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Carvão Mineral?",
-        respostas: ["","","",""],
-        acerto: "resp0",
-        imagem: "",
-    
-    },
-    
-    {
-    
-        pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Carvão Mineral?",
-        respostas: ["","","",""],
-        acerto: "resp0",
-        imagem: "",
-    
-    },
-    
-    {
-    
-        pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Carvão Mineral?",
-        respostas: ["","","",""],
-        acerto: "resp0",
-        imagem: "",
+        imagem: "<img src='https://img.elo7.com.br/product/original/334D101/gipsita-sobre-calcita-em-bruto-1kg-gipsita.jpg' width='55%' height='18%' alt='Gipsita'>",
     
     },
     
@@ -241,54 +185,53 @@ $(document).ready(() => {
     {
     
     pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Galena?",
-    respostas: ["","","",""],
+    respostas: ["Entre 2,5 e 3; Cinza","Entre 3 e 3,5; Cinza","Entre 1 e 2; Branco","Entre 3 e 4; Branco"],
     acerto: "resp0",
-    imagem: "",
-    
+    imagem: "<img src='https://m.media-amazon.com/images/I/81PSYzLXmcL._SL1500_.jpg' width='55%' height='18%' alt='Galena'>",
     },
     
     {
     
     pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Galena?",
-    respostas: ["","","",""],
+    respostas: ["Metálico; Opaco","Resinoso; Opaco","Nacarado; Opaco","Sedoso; Opaco"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/galena-1.jpg' width='55%' height='18%' alt='Galena'>",
     
     },
     
     {
     
     pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Galena?",
-    respostas: ["","","",""],
+    respostas: ["PbS; Sulfetos","FeS2; Sulfetos","CaCO3; Carbonatos","SiO2; Silicatos"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://media.gettyimages.com/photos/galena-mineral-picture-id546417257?s=612x612' width='55%' height='18%' alt='Galena'>",
     
     },
     
     {
     
     pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Galena?",
-    respostas: ["","","",""],
+    respostas: ["Granular e/ou Maciço; Perfeita e Cúbica","Botrioidal e/ou Maciço; Perfeita e Cúbica","Acicular e/ou Arborescente; Sem Clivagem","Granular e/ou Maciço; Sem Clivagem"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://thumbs.dreamstime.com/b/galeno-cru-galenite-de-cristal-no-branco-134143788.jpg' width='55%' height='18%' alt='Galena'>",
     
     },
     
     {
     
     pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Galena?",
-    respostas: ["","","",""],
+    respostas: ["Principal fonte de chumbo; Encontrada em veios e depósitos de calcários","Usada como combustível nuclear; Encontrada em veios e depósitos de calcários","Usada na industria para produção de cimento; Encontrada em bacias sedimentares"," Usada com fins ornamentais; Encontrada próximo à vulcões"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://2.bp.blogspot.com/-nfgskBEZeRA/UfGyYc30aDI/AAAAAAAAA6Q/27fRxw1U8NY/s1600/galena.jpg' width='55%' height='18%' alt='Galena'>",
     
     },
     
     {
     
     pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Galena?",
-    respostas: ["","","",""],
+    respostas: ["Subconchoidal; Quebradiço","Subconchoidal; Maleável","Serrilhada; Maleável","Fibrosa; Quebradiço"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://media.istockphoto.com/photos/piece-of-galena-on-white-background-picture-id103965583' width='55%' height='18%' alt='Galena'>",
     
     },
     
@@ -297,54 +240,54 @@ $(document).ready(() => {
     {
     
     pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Calcita?",
-    respostas: ["","","",""],
+    respostas: ["3; Branco","2; Branco","4; Não possui traço","5; Não possui traço"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/calcita-6.jpg' width='55%' height='18%' alt='Calcita'>",
     
     },
     
     {
     
     pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Calcita?",
-    respostas: ["","","",""],
+    respostas: ["Nacarado e/ou Vítreo; Opaco e/ou Transparente","Nacarado e/ou Vítreo; Translúcido e/ou Transparente","Gorduroso e/ou Vítreo; Opaco e/ou Transparente","Gorduroso e/ou Vítreo; Translúcido e/ou Transparente"],
     acerto: "resp0",
-    imagem: "",
-    
+    imagem: "<img src='https://img.elo7.com.br/product/original/319F835/calcita-otica-cristal.jpg' width='55%' height='18%' alt='Calcita'>",
+
     },
     
     {
     
     pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Calcita?",
-    respostas: ["","","",""],
+    respostas: ["CaCO3; Carbonatos","CaCO3; Sulfetos","CaSO4; Carbonatos","CaSO4; Sulfetos"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/calcita-2-1024x683.jpg' width='55%' height='18%' alt='Calcita'>",
     
     },
     
     {
     
     pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Calcita?",
-    respostas: ["","","",""],
+    respostas: ["Prismático, Romboédrico e/ou Escalenoédrico; Clivagem Romboédrica perfeita","Prismático, Romboédrico e/ou Escalenoédrico; Sem Clivagem","Colunar, Prismático e/ou Lamelar; Sem clivagem","Colunar, Prismático e/ou Lamelar; Clivagem Romboédrica perfeita "],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://img.elo7.com.br/product/original/350D215/bloco-de-calcita-branca-436g-pedra-bruta-natural-calcita-branca-bruta.jpg' width='55%' height='18%' alt='Calcita'>",
     
     },
     
     {
     
     pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Calcita?",
-    respostas: ["","","",""],
+    respostas: ["Usa-se na fabricação de cimentos e argamassa; Predominante de calcários, margas, mármores e carbonatitos","Principal fonte de chumbo; Encontrada em veios e depósitos de calcários","Produção de tijolos e argamassa; Formado pela alteração de Anidrita","Usado nas industrias de argamassa, vidro e tijolos e ornamentação; Constituinte de rochas ígneas ácidas"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://images.tcdn.com.br/img/img_prod/630090/calcita_azul_pedra_natural_bruta_5105_1_20200810102341.jpg' width='55%' height='18%' alt='Calcita'>",
     
     },
     
     {
     
     pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Calcita?",
-    respostas: ["","","",""],
+    respostas: ["Conchoidal; Quebradiço","Conchoidal; Maleável","Serrilhada; QUebradiça","Serrilhada; Maleável"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://pedrasecristais.com/wp-content/uploads/2018/06/Pedra-Calcita-1-900x500.jpg' width='55%' height='18%' alt='Calcita'>",
     
     },
     
@@ -353,54 +296,54 @@ $(document).ready(() => {
     {
     
     pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Magnetita?",
-    respostas: ["","","",""],
+    respostas: ["Entre 5,5 e 6,5; Preto","Entre 6,5 e 7,5; Preto","Entre 3 e 4; Cinza","Entre 6 e 7; Não possui traço"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://nossaciencia.com.br/wp-content/uploads/2018/10/Magnetita.jpg' width='55%' height='18%' alt='Magnetita'>",
     
     },
     
     {
     
     pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Magnetita?",
-    respostas: ["","","",""],
+    respostas: ["Metálico; Opaco e/ou Translúcido","Metálico; Translúcido e/ou Transparente","Resinoso e/ou Nacarado; Transparente e/ou Translúcido","Gorduroso e/ou Vítreo; Transparente e/ou Translúcido"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/magnetita-4.jpg' width='55%' height='18%' alt='Magnetita'>",
     
     },
     
     {
     
     pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Magnetita?",
-    respostas: ["","","",""],
+    respostas: ["Fe2+Fe2O4; Óxidos","Fe2+Fe2O4; Haletos","CaCO3; Sulfetos","CaCO3; Carbonatos"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://thumbs.dreamstime.com/b/magnetite-em-bruto-min%C3%A9rio-de-ferro-isolada-branco-colagem-amostras-minerais-naturais-cole%C3%A7%C3%A3o-geol%C3%B3gica-cru-isolado-sobre-170797714.jpg' width='55%' height='18%' alt='Magnetita'>",
     
     },
     
     {
     
     pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Magnetita?",
-    respostas: ["","","",""],
+    respostas: ["Octaédrico e/ou Maciça granular; Sem Clivagem","Maciça e/ou Botrioidal; Sem Clivagem","Octaédrico e/ou Maciça granular; Clivagem perfeita","Maciça e/ou Botrioidal; Clivagem Perfeita"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://mct.ufop.br/sites/default/files/styles/os_files_xlarge/public/mct/files/imagem_1_4.png?m=1634943672&itok=W2saziLT' width='55%' height='18%' alt='Magnetita'>",
     
     },
     
     {
     
     pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Magnetita?",
-    respostas: ["","","",""],
+    respostas: ["Importante minério de ferro; Mineral acessório em muitas rochas magmáticas","Principal fonte de chumbo; Encontrada em veios e depósitos de calcários","Usado nas industrias de argamassa, vidro e tijolos e ornamentação; Constituinte de rochas ígneas ácidas","Usa-se na fabricação de cimentos e argamassa; Predominante de calcários, margas, mármores e carbonatitos"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/8/8b/Chalcopyrite-Magnetite-cktsr-10c.jpg/1280px-Chalcopyrite-Magnetite-cktsr-10c.jpg' width='55%' height='18%' alt='Magnetita'>",
     
     },
     
     {
     
     pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Magnetita?",
-    respostas: ["","","",""],
+    respostas: ["Irregular; Quebradiço","Irregular; Maleável","Conchoidal; Quebradiço","Conchoidal; Maleável"],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://terrabrasilisdidaticos.com.br/wp-content/uploads/2021/12/geo413-mineral-magnetita.png' width='55%' height='18%' alt='Magnetita'>",
     
     },
     
@@ -411,7 +354,7 @@ $(document).ready(() => {
     pergunta: "Qual a DUREZA e o TRAÇO, respectivamente, de Berilo?",
     respostas: ["","","",""],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://www.cristaisdecurvelo.com.br/product_images/uploaded_images/berilo_mineral.jpg' width='55%' height='18%' alt='Berilo'>",
     
     },
     
@@ -420,7 +363,7 @@ $(document).ready(() => {
     pergunta:"Qual o BRILHO e DIAFANEIDADE, respectivamente, de Berilo?",
     respostas: ["","","",""],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='http://2.bp.blogspot.com/_2jqRJ-Jj7-Y/R7vr3-u9zZI/AAAAAAAAAj8/pr1O4mGlhBo/w1200-h630-p-k-no-nu/emerald2.jpg' width='55%' height='18%' alt='Berilo'>",
     
     },
     
@@ -429,7 +372,7 @@ $(document).ready(() => {
     pergunta: "Qual a fórmula QUÍMICA e a CLASSE, respectivamente, de Berilo?",
     respostas: ["","","",""],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjkOvpCf3GyTTSz1nMJjNVhrtR-Psq1q7Vlj9ZUVb4OXXtg0Ky955ppkygmhBidiDAWY&usqp=CAU' width='55%' height='18%' alt='Berilo'>",
     
     },
     
@@ -438,7 +381,7 @@ $(document).ready(() => {
     pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Berilo?",
     respostas: ["","","",""],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://didatico.igc.usp.br/wp-content/uploads/2017/04/berilo-4.jpg' width='55%' height='18%' alt='Berilo'>",
     
     },
     
@@ -447,7 +390,7 @@ $(document).ready(() => {
     pergunta: "Quais os USOS e OCORRÊNCIAS, respectivamente, de Berilo?",
     respostas: ["","","",""],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='https://www.vivernatural.com.br/wp-content/uploads/2018/10/2601a-1-720x426-min.jpg' width='55%' height='18%' alt='Berilo'>",
     
     },
     
@@ -456,7 +399,7 @@ $(document).ready(() => {
     pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Berilo?",
     respostas: ["","","",""],
     acerto: "resp0",
-    imagem: "",
+    imagem: "<img src='http://sgbeduca.cprm.gov.br/media/adultos/pedras_preciosas_semi2.jpg' width='55%' height='18%' alt='Berilo'>",
     
     },
     
@@ -1502,7 +1445,7 @@ $(document).ready(() => {
 
         // Gerar um número aleatório que é o indice da pergunta que será feita
 
-        let aleatorio = 0
+        let aleatorio = 38
 
         console.log(`O número aleatório gerado é ${aleatorio}`)
 
