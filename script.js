@@ -174,7 +174,7 @@ $(document).ready(() => {
     {
     
         pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Gipsita?",
-        respostas: ["Conchoidal; Flexível","Fibrosa; Flexível","Desigual; Fibrosa","Desigual; "],
+        respostas: ["Conchoidal; Flexível","Fibrosa; Flexível","Desigual; Fibrosa","Desigual; Flexível"],
         acerto: "resp0",
         imagem: "<img src='https://img.elo7.com.br/product/original/334D101/gipsita-sobre-calcita-em-bruto-1kg-gipsita.jpg' width='55%' height='18%' alt='Gipsita'>",
     
@@ -992,13 +992,13 @@ $(document).ready(() => {
 
     function gerarPergunta(maxPerguntas) {
 
-        console.log(`O a quantidade máxima de perguntas é ${maxPerguntas+1}`)
+        console.log(`O a quantidade máxima de perguntas é ${maxPerguntas}`)
 
         console.log('-----------------------')
 
         // Gerar um número aleatório que é o indice da pergunta que será feita
 
-        let aleatorio = 100
+        let aleatorio = Number((Math.random() * maxPerguntas).toFixed())
 
         console.log(`O número aleatório gerado é ${aleatorio}`)
 
@@ -1329,15 +1329,7 @@ $(document).ready(() => {
 
         } else if (acertos.length <= 100) {
 
-            $('#desempenho').html(`Você foi ótimo! Seu desempenho foi de ${razao*100}%`)
-
-        } else if (acertos.length <= 120) {
-
             $('#desempenho').html(`Você foi incrível! Sê é o bixão mesmo em doido! Seu desempenho foi de ${razao*100}%`)
-
-        } else if (acertos.length <= 150) {
-
-            $('#desempenho').html(`Perfeito! Sê é o bixão mesmo em doido! Seu desempenho foi de ${razao*100}%`)
 
         } else if (acertos.length = qtdPerguntas + 1) {
 

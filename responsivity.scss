@@ -28,6 +28,12 @@
     
     };
 
+    #desempenho {
+
+        font-size: 24px;
+
+    };
+
 }
 
 @media (max-width: 991px) {
@@ -120,6 +126,20 @@
 
     };
 
+    #desempenho {
+
+        font-size: 20px;
+
+    };
+
+    #novoJogo {
+
+        width: 300px;
+        height: 40px;
+
+    };
+
+
 }
 
 @media (max-width: 460px) {
@@ -167,6 +187,19 @@
         margin: 15px 0px 10px 0px;
 
     };
+
+    #desempenho {
+
+        font-size: 12px;
+
+    };
+
+    #novoJogo {
+
+        width: 200px;
+        height: 35px;
+
+    };
     
 }
 
@@ -204,6 +237,12 @@
 
     };
 
+    #desempenho {
+
+        font-size: 12px;
+
+    };
+
 }
 
 @media (max-width: 280px) {
@@ -236,6 +275,13 @@
     .table {
     
         transform: scale(0.4);
+
+    };
+
+    #novoJogo {
+
+        width: 100px;
+        height: 30px;
 
     };
 
