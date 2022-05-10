@@ -5,8 +5,8 @@
     margin: auto auto;
   }
   .table {
-    -webkit-transform: scale(0.9);
-            transform: scale(0.9);
+    -webkit-transform: scale(0.98);
+            transform: scale(0.98);
   }
   .resposta {
     font-size: 14px;
@@ -86,13 +86,8 @@
   h2 {
     font-size: 10px;
   }
-  .quiz {
-    -webkit-transform: scale(0.9);
-            transform: scale(0.9);
-  }
   .resposta {
-    height: 28px;
-    font-size: 8px;
+    font-size: 7px;
   }
   h3 {
     font-size: 12px;
@@ -122,11 +117,10 @@
     font-size: 9px;
   }
   .quiz {
-    -webkit-transform: scale(0.85);
-            transform: scale(0.85);
+    -webkit-transform: scale(0.93);
+            transform: scale(0.93);
   }
   .resposta {
-    height: 25px;
     font-size: 6px;
   }
   h3 {
@@ -147,11 +141,11 @@
     font-size: 6px;
   }
   .quiz {
-    -webkit-transform: scale(0.8);
-            transform: scale(0.8);
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
   }
   .resposta {
-    height: 20px;
+    height: 23px;
     font-size: 4px;
   }
   h3 {

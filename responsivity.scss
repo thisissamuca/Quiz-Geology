@@ -10,7 +10,7 @@
 
     .table {
     
-        transform: scale(0.9)
+        transform: scale(0.98)
 
     };
     
@@ -150,16 +150,9 @@
         
     };
 
-    .quiz {
-
-        transform: scale(.90);
-
-    };
-
     .resposta {
-
-        height: 28px;
-        font-size: 8px
+        
+        font-size: 7px
 
     };
 
@@ -213,13 +206,12 @@
 
     .quiz {
 
-        transform: scale(.85);
+        transform: scale(.93);
 
     };
 
     .resposta {
 
-        height: 25px;
         font-size: 6px
 
     };
@@ -255,13 +247,13 @@
 
     .quiz {
 
-        transform: scale(.80);
+        transform: scale(.90);
 
     };
 
     .resposta {
 
-        height: 20px;
+        height: 23px;
         font-size: 4px
 
     };
