@@ -100,7 +100,7 @@ $(document).ready(() => {
     {
     
         pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Quartzo?",
-        respostas: ["Prismático; Sem Clivagem","Colunar; Sem Clivagem","Prismático;","Colunar; Prismática"],
+        respostas: ["Prismático; Sem Clivagem","Colunar; Sem Clivagem","Prismático; Prismática","Colunar; Prismática"],
         acerto: "resp0",
         imagem: "<img src='https://blog.mbastosjoias.com.br/wp-content/uploads/2020/01/pedra-ametista.png' width='55%' height='18%' alt='Quartzo'>",
     
@@ -268,7 +268,7 @@ $(document).ready(() => {
     {
     
         pergunta: "Qual o HÁBITO e CLIVAGEM, respectivamente de Calcita?",
-        respostas: ["Prismático, Romboédrico e/ou Escalenoédrico; Clivagem Romboédrica perfeita","Prismático, Romboédrico e/ou Escalenoédrico; Sem Clivagem","Colunar, Prismático e/    ou Lamelar; Sem clivagem","Colunar, Prismático e/ou Lamelar; Clivagem Romboédrica perfeita"],
+        respostas: ["Prismático, Romboédrico e/ou Escalenoédrico; Clivagem Romboédrica perfeita","Prismático, Romboédrico e/ou Escalenoédrico; Sem Clivagem","Colunar, Prismático e/ou Lamelar; Sem clivagem","Colunar, Prismático e/ou Lamelar; Clivagem Romboédrica perfeita"],
         acerto: "resp0",
         imagem: "<img src='https://img.elo7.com.br/product/original/350D215/bloco-de-calcita-branca-436g-pedra-bruta-natural-calcita-branca-bruta.jpg' width='55%' height='18%' alt='Calcita'>",
     
@@ -286,7 +286,7 @@ $(document).ready(() => {
     {
     
         pergunta: "Qual a FRATURA e TENACIDADE, respectivamente de Calcita?",
-        respostas: ["Conchoidal; Quebradiço","Conchoidal; Maleável","Serrilhada; QUebradiça","Serrilhada; Maleável"],
+        respostas: ["Conchoidal; Quebradiço","Conchoidal; Maleável","Serrilhada; Quebradiça","Serrilhada; Maleável"],
         acerto: "resp0",
         imagem: "<img src='https://pedrasecristais.com/wp-content/uploads/2018/06/Pedra-Calcita-1-900x500.jpg' width='55%' height='18%' alt='Calcita'>",
     
@@ -1261,7 +1261,7 @@ $(document).ready(() => {
 
                                 console.log('-----------------------')
             
-                            }, 1800);
+                            }, 2400);
     
                         };
                                     
