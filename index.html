@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="components.css">
     <link rel="stylesheet" href="effects.css">
     <link rel="stylesheet" href="responsivity.css">
+    <link rel="stylesheet" href="fonts.css">
 
   </head>
 
@@ -61,7 +62,6 @@
                     <tr>
         
                       <td id="perguntasFeitas"></td>
-                      <td id="qtdMax"></td>
         
                     </tr>
         
@@ -81,9 +81,17 @@
 
           <div class="container">
 
-            <div id="figure"></div>
+            <div class="figures">
 
-            <h2 id="textQuiz"></h2>
+              <div id="figure"></div>
+
+              <div id="figure2"></div>
+
+            </div>
+
+            <h4 id="textCategoria"></h2>
+
+            <h2 id="textQuiz"></h2> 
 
             <div id="respostas">
             
@@ -135,7 +143,21 @@
             
             </div>
 
-            <button id="verific"><h3>VERIFICAR</h3></button>
+            <div class="controle">
+
+              <div>
+
+                <button id="verific"><h3>VERIFICAR</h3></button>
+
+              </div>
+
+              <div>
+
+                <button id="end"><h5>TERMINAR JOGO</h5></button>
+
+              </div>
+              
+            </div>
 
             <div>
 
@@ -181,7 +203,7 @@
 
         <p id="desempenho"></p>
   
-        <button type="button" id="novoJogo">Novo Jogo</button>
+        <button type="button" id="novoJogo">NOVO JOGO</button>
   
       </div>
 
