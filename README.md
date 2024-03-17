@@ -41,7 +41,7 @@ Tabela de conteúdos
 - Concurseiros.
 
 ## 🌐 Link para acessar o site:
-https://thisissamuca.github.io/Quiz/
+https://thisissamuca.github.io/Quiz-Geology/
 
 # ⚙️ Metodologia
 
