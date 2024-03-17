@@ -957,7 +957,7 @@ $(document).ready(() => {
 
         // Gerar um número aleatório que é o indice da pergunta que será feita
 
-        let aleatorio = 43 //Number((Math.random() * maxPerguntas).toFixed())
+        let aleatorio = Number((Math.random() * maxPerguntas).toFixed())
 
         console.log(`O número aleatório gerado é ${aleatorio}`)
 
@@ -1278,11 +1278,13 @@ $(document).ready(() => {
 
         var acertosConv = Number.parseInt(acertos.length)
 
-        var razao = parseInt(acertosConv / (qtdPerguntas + 1))
+        var errosConv = Number.parseInt(erros.length)
+
+        var razao = acertosConv / (errosConv + acertosConv)
 
         // Aparecendo o desempenho no final do jogo
 
-        $('#desempenho').html(`Seu desempenho foi de ${razao*100}%`)
+        $('#desempenho').html(`Seu desempenho foi de ${Math.round(razao*100)}%`)
 
         // Aparecendo com o painel no fim do jogo
 
