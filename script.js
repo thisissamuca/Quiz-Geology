@@ -28,8 +28,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/fk_1twin_1_18-1.jpg', width='45%' height='18%' alt='Ortoclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/fk_1twin_1_18.jpg', width='45%' height='18%' alt='Ortoclásio XPL'>",
+            imagem: "<img src='./Images/Ortoclásio/image_01.jpg', width='45%' height='18%' alt='Ortoclásio PPL'>",
+            imagem2: "<img src='./Images/Ortoclásio/image_02.jpg', width='45%' height='18%' alt='Ortoclásio XPL'>",
 
         },
 
@@ -45,8 +45,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/fk_1twin_09-1.jpg', width='45%' height='18%' alt='Ortoclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/fk_1twin_09.jpg', width='45%' height='18%' alt='Ortoclásio XPL'>",
+            imagem: "<img src='./Images/Ortoclásio/image_03.jpg', width='45%' height='18%' alt='Ortoclásio PPL'>",
+            imagem2: "<img src='./Images/Ortoclásio/image_04.jpg', width='45%' height='18%' alt='Ortoclásio XPL'>",
 
         },
 
@@ -62,8 +62,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/fk_perthitic_str_3_04-1.jpg', width='45%' height='18%' alt='Ortoclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/fk_perthitic_str_3_04.jpg', width='45%' height='18%' alt='Ortoclásio XPL'>",
+            imagem: "<img src='./Images/Ortoclásio/image_05.jpg', width='45%' height='18%' alt='Ortoclásio PPL'>",
+            imagem2: "<img src='./Images/Ortoclásio/image_06.jpg', width='45%' height='18%' alt='Ortoclásio XPL'>",
 
         },
 
@@ -79,8 +79,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/fk_perthitic_str_02-1.jpg', width='45%' height='18%' alt='Ortoclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/fk_perthitic_str_02.jpg', width='45%' height='18%' alt='Ortoclásio XPL'>",
+            imagem: "<img src='./Images/Ortoclásio/image_07.jpg', width='45%' height='18%' alt='Ortoclásio PPL'>",
+            imagem2: "<img src='./Images/Ortoclásio/image_08.jpg', width='45%' height='18%' alt='Ortoclásio XPL'>",
 
         },
 
@@ -96,8 +96,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/fk_1twin_2_01.jpg', width='45%' height='18%' alt='Ortoclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/fk_1twin_2_01-1.jpg', width='45%' height='18%' alt='Ortoclásio XPL'>",
+            imagem: "<img src='./Images/Ortoclásio/image_09.jpg', width='45%' height='18%' alt='Ortoclásio PPL'>",
+            imagem2: "<img src='./Images/Ortoclásio/image_10.jpg', width='45%' height='18%' alt='Ortoclásio XPL'>",
 
         },
 
@@ -132,8 +132,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_2_11.jpg', width='45%' height='18%'   alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_2_11-1.jpg', width='45%' height='18%'    alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_01.jpg', width='45%' height='18%'   alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_02.jpg', width='45%' height='18%'    alt='Plagioclásio XPL'>",
 
         },
 
@@ -149,8 +149,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_17_poly_06.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_17_poly_06-1-768x512.jpg', width='45%'   height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_03.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_04.jpg', width='45%'   height='18%' alt='Plagioclásio XPL'>",
 
         },
 
@@ -166,8 +166,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_09-1.jpg', width='45%' height='18%'   alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_09.jpg', width='45%' height='18%'    alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_05.jpg', width='45%' height='18%'   alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_06.jpg', width='45%' height='18%'    alt='Plagioclásio XPL'>",
 
         },
 
@@ -183,8 +183,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_3_zonar_01.jpg', width='45%' height='18%'  alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_3_zonar_01-1.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_07.jpg', width='45%' height='18%'  alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_08.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
             
         },
 
@@ -200,8 +200,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_3_zonar_10-1.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_3_zonar_10.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_09.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_10.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
             
         },
 
@@ -217,8 +217,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_5_zonar_01.jpg', width='45%' height='18%'  alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_5_zonar_01-1.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_11.jpg', width='45%' height='18%'  alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_12.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
 
         },
 
@@ -234,8 +234,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_5_zonar_12.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_5_zonar_12-1.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_13.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_14.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
             
         },
 
@@ -251,8 +251,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_6_poly_01.jpg', width='45%' height='18%'  alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_6_poly_01-2.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_15.jpg', width='45%' height='18%'  alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_16.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
 
         },
 
@@ -268,8 +268,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_6_poly_06.jpg', width='45%' height='18%'  alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_6_poly_06-1.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_17.jpg', width='45%' height='18%'  alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_18.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
 
         },
 
@@ -285,8 +285,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_13_poly_12-1.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_13_poly_12.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_19.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_20.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
 
         },
 
@@ -302,8 +302,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_14_poly_06.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_14_poly_06-1.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_21.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_22.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
 
         },
 
@@ -319,8 +319,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_14_poly_09.jpg', width='45%' height='18%'  alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_14_poly_09-1.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_23.jpg', width='45%' height='18%'  alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_24.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
 
         },
 
@@ -336,8 +336,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_18_poly_07-1.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_18_poly_07.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_25.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_26.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
 
         },
 
@@ -353,8 +353,8 @@ $(document).ready(() => {
                 "Microclínio",
                 "Anortoclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_20_zonar_09-1.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/plagioclase_20_zonar_09.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
+            imagem: "<img src='./Images/Plagioclásio/image_27.jpg', width='45%' height='18%' alt='Plagioclásio PPL'>",
+            imagem2: "<img src='./Images/Plagioclásio/image_28.jpg', width='45%' height='18%' alt='Plagioclásio XPL'>",
 
         },
 
@@ -372,8 +372,8 @@ $(document).ready(() => {
                 "Nefelina",
                 "Apatita"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_10_03-1.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_10_03.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
+            imagem: "<img src='./Images/Quartzo/image_01.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
+            imagem2: "<img src='./Images/Quartzo/image_02.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
 
         },
 
@@ -389,8 +389,8 @@ $(document).ready(() => {
                 "Nefelina",
                 "Apatita"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_01.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_01-1.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
+            imagem: "<img src='./Images/Quartzo/image_03.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
+            imagem2: "<img src='./Images/Quartzo/image_04.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
 
         },
 
@@ -406,8 +406,8 @@ $(document).ready(() => {
                 "Nefelina",
                 "Apatita"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_8_01.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_8_01-1.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
+            imagem: "<img src='./Images/Quartzo/image_05.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
+            imagem2: "<img src='./Images/Quartzo/image_06.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
 
         },
 
@@ -423,8 +423,8 @@ $(document).ready(() => {
                 "Nefelina",
                 "Apatita"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_8_05.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_8_05-1.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
+            imagem: "<img src='./Images/Quartzo/image_07.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
+            imagem2: "<img src='./Images/Quartzo/image_08.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
 
         },
 
@@ -440,8 +440,8 @@ $(document).ready(() => {
                 "Nefelina",
                 "Apatita"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_1_06.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_1_06-1.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
+            imagem: "<img src='./Images/Quartzo/image_09.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
+            imagem2: "<img src='./Images/Quartzo/image_10.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
 
         },
 
@@ -457,8 +457,8 @@ $(document).ready(() => {
                 "Nefelina",
                 "Apatita"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_1_01-1.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/quartz_1_01.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
+            imagem: "<img src='./Images/Quartzo/image_11.jpg', width='45%' height='18%' alt='Quartzo PPL'>",
+            imagem2: "<img src='./Images/Quartzo/image_12.jpg', width='45%' height='18%' alt='Quartzo XPL'>",
 
         },
 
@@ -476,8 +476,8 @@ $(document).ready(() => {
                 "Nefelina",
                 "Plagioclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/fk_microcline_8_01.jpg', width='45%' height='18%' alt='Microclino PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/fk_microcline_8_01-1.jpg', width='45%' height='18%' alt='Microclino XPL'>",
+            imagem: "<img src='./Images/Microclíno/image_01.jpg', width='45%' height='18%' alt='Microclino PPL'>",
+            imagem2: "<img src='./Images/Microclíno/image_02.jpg', width='45%' height='18%' alt='Microclino XPL'>",
 
         },
 
@@ -493,8 +493,8 @@ $(document).ready(() => {
                 "Nefelina",
                 "Plagioclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/fk_microcline_6_32.jpg', width='45%' height='18%' alt='Microclino PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/fk_microcline_6_32-1.jpg', width='45%' height='18%' alt='Microclino XPL'>",
+            imagem: "<img src='./Images/Microclíno/image_03.jpg', width='45%' height='18%' alt='Microclino PPL'>",
+            imagem2: "<img src='./Images/Microclíno/image_04.jpg', width='45%' height='18%' alt='Microclino XPL'>",
 
         },
 
@@ -510,8 +510,8 @@ $(document).ready(() => {
                 "Nefelina",
                 "Plagioclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/microcline_2_02.jpg', width='45%' height='18%' alt='Microclino PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/microcline_2_02-1.jpg', width='45%' height='18%' alt='Microclino XPL'>",
+            imagem: "<img src='./Images/Microclíno/image_05.jpg', width='45%' height='18%' alt='Microclino PPL'>",
+            imagem2: "<img src='./Images/Microclíno/image_06.jpg', width='45%' height='18%' alt='Microclino XPL'>",
 
         },
 
@@ -527,8 +527,8 @@ $(document).ready(() => {
                 "Nefelina",
                 "Plagioclásio"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/fk_microcline_10_08-1.jpg', width='45%' height='18%' alt='Microclino PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/fk_microcline_10_08.jpg', width='45%' height='18%' alt='Microclino XPL'>",
+            imagem: "<img src='./Images/Microclíno/image_07.jpg', width='45%' height='18%' alt='Microclino PPL'>",
+            imagem2: "<img src='./Images/Microclíno/image_08.jpg', width='45%' height='18%' alt='Microclino XPL'>",
 
         },
 
@@ -546,8 +546,8 @@ $(document).ready(() => {
                 "Microclino",
                 "Quartzo"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/nepheline_3_05-1.jpg', width='45%' height='18%' alt='Nefelina PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/nepheline_3_05.jpg', width='45%' height='18%' alt='Nefelina XPL'>",
+            imagem: "<img src='./Images/Nefelina/image_01.jpg', width='45%' height='18%' alt='Nefelina PPL'>",
+            imagem2: "<img src='./Images/Nefelina/image_02.jpg', width='45%' height='18%' alt='Nefelina XPL'>",
 
         },
 
@@ -563,8 +563,8 @@ $(document).ready(() => {
                 "Microclino",
                 "Quartzo"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/nepheline_4_04.jpg', width='45%' height='18%' alt='Nefelina PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/nepheline_4_04-1.jpg', width='45%' height='18%' alt='Nefelina XPL'>",
+            imagem: "<img src='./Images/Nefelina/image_03.jpg', width='45%' height='18%' alt='Nefelina PPL'>",
+            imagem2: "<img src='./Images/Nefelina/image_04.jpg', width='45%' height='18%' alt='Nefelina XPL'>",
 
         },
 
@@ -580,8 +580,8 @@ $(document).ready(() => {
                 "Microclino",
                 "Quartzo"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/nepheline_2_05.jpg', width='45%' height='18%' alt='Nefelina PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/nepheline_2_05-1.jpg', width='45%' height='18%' alt='Nefelina XPL'>",
+            imagem: "<img src='./Images/Nefelina/image_05.jpg', width='45%' height='18%' alt='Nefelina PPL'>",
+            imagem2: "<img src='./Images/Nefelina/image_06.jpg', width='45%' height='18%' alt='Nefelina XPL'>",
 
         },
 
@@ -597,8 +597,8 @@ $(document).ready(() => {
                 "Microclino",
                 "Quartzo"],
             acerto: "resp0",
-            imagem: "<img src='http://microckscopic.ro/wp-content/uploads/nepheline_6_05.jpg', width='45%' height='18%' alt='Nefelina PPL'>",
-            imagem2: "<img src='http://microckscopic.ro/wp-content/uploads/nepheline_6_05-1.jpg', width='45%' height='18%' alt='Nefelina XPL'>",
+            imagem: "<img src='./Images/Nefelina/image_07.jpg', width='45%' height='18%' alt='Nefelina PPL'>",
+            imagem2: "<img src='./Images/Nefelina/image_08.jpg', width='45%' height='18%' alt='Nefelina XPL'>",
 
         },
 
