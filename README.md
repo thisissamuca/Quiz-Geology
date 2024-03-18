@@ -68,7 +68,7 @@ Outra forma de contribuir é compartilhando esse projeto com mais alguém. Sinta
 
 # ❤️ Agradecimentos
 
-Meus agradecimentos a todos que me apoiaram de alguma forma para a construção desse projeto, especialmente minha companheira <a href="https://github.com/JhenifferCorreia">Jhenzaster</a>. À todos meus amigos e amigas colegas de turma, especificamente, os ingressantes de Geologia do ano de 2022 da Universidade Estadual de Campinas.
+Meus agradecimentos a todos que me apoiaram de alguma forma para a construção desse projeto, especialmente minha companheira [@JhenifferCorreia](https://www.github.com/JhenifferCorreia). À todos meus amigos e amigas colegas de turma, especificamente, os ingressantes de Geologia do ano de 2022 da Universidade Estadual de Campinas.
 
 # 🙂 Créditos
 
