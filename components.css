@@ -23,10 +23,17 @@
   border-radius: 8px;
 }
 
-#figure {
-  margin: auto auto;
+.figures {
+  margin: 0px 0px 30px 0px;
 }
 
+#figure {
+  display: inline;
+}
+
+#figure2 {
+  display: inline;
+}
 .container {
   -webkit-transition: 2s;
   transition: 2s;
@@ -83,19 +90,6 @@
   transition: .5s;
 }
 
-/* TEXTO DESEMPENHO */
-#desempenho {
-  font-size: 30px;
-  margin: 50px 0px 0px 0px;
-}
-
-/* TÍTULO FIM DE JOGO */
-#mensagem {
-  font-weight: bold;
-  padding-top: 50px;
-  margin-bottom: 50px;
-}
-
 /* ------------------------------------------------------------------------------- */
 /* -------------------- ** FOOTER ** ----------------------- */
 /* CONTAINER */
@@ -109,12 +103,12 @@
 
 /* BTN VERIFICAR RESPOSTA */
 #verific {
-  background-color: #2949ff;
+  background-color: #ffa01a;
   -webkit-box-shadow: 0px 0px 10px rgba(51, 51, 51, 0.4);
           box-shadow: 0px 0px 10px rgba(51, 51, 51, 0.4);
   color: white;
   margin: auto auto;
-  margin: 30px 0px 30px 0px;
+  margin: 30px 0px 7.5px 0px;
   border-radius: 30px;
   border: 1px solid rgba(0, 0, 0, 0.25);
   width: 500px;
@@ -124,10 +118,24 @@
   transition: 1s;
 }
 
-h3 {
-  font-weight: bold;
+/* BTN TERMINAR JOGO */
+#end {
+  background-color: #ff4929;
+  -webkit-box-shadow: 0px 0px 10px rgba(51, 51, 51, 0.4);
+          box-shadow: 0px 0px 10px rgba(51, 51, 51, 0.4);
+  color: white;
   margin: auto auto;
+  margin: 7.5px 0px 30px 0px;
+  border-radius: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  width: 150px;
+  height: 25px;
+  cursor: pointer;
+  -webkit-transition: 1s;
+  transition: 1s;
 }
+
+
 
 /* TABELA */
 .table {

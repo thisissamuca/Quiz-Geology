@@ -1,0 +1,47 @@
+/* -------------------- ** TEXTOS ** ----------------------- */
+
+h2 {
+    color: #333;
+    margin: 15px 0px 0px 0px;
+    padding: 0px 20px 0px 20px;
+    font-weight: bolder;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+
+h3 {
+    font-weight: bolder;
+    margin: auto auto;
+    text-align: center;
+}
+
+h4 {
+    color: #ffa01a;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 20px 0px 20px;
+    font-weight:bold;
+    font-size: 16px;
+    letter-spacing: 1.5px;
+}
+
+h5 {
+    font-size: 12px;
+    font-weight: bold;
+    margin: auto auto;
+}
+
+/* TEXTO DESEMPENHO */
+#desempenho {
+    font-size: 30px;
+    margin: 50px 0px 0px 0px;
+}
+  
+/* TÍTULO FIM DE JOGO */
+#mensagem {
+    font-weight: bold;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* ------------------------------------------------------------------------------- */

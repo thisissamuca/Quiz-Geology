@@ -21,11 +21,10 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Layout](#-layout)
    * [Metodologia](#%EF%B8%8F-metodologia)
    * [Contribuição](#-some-com-o-projeto)
-   * [Agradecimentos](#-agradecimentos)
-   * [Créditos](#-creditos)
+   * [Agradecimentos](#%EF%B8%8F-agradecimentos)
+   * [Créditos](#-créditos)
    * [Tecnologias](#-tecnologias)
    * [Licença](#-licença)
 <!--te-->
@@ -50,7 +49,7 @@ O aplicativo possui três premissas: 1) ser rápido, 2) ser repetitivo e 3) ter 
 Para isso, tive que separar algumas categorias de perguntas que desafiasse o conhecimento do usuário em algo específico. Separar as perguntas em categorias, facilita a formulação de novas perguntas e coloca originalidade em cada tópico, assim, o usuário saberá facilmente sobre o que se trata cada pergunta e sua exigência.
 
 - **Analise o mineral:** A ideia é apresentar imagens PPL e XPL de lâminas delgadas em microscópio petrográficos, sem legenda ou anotação, para que o usuário observe-a e consiga identificar qual mineral está sendo apresentado.
-- **Quem eu sou?:** Uma paródia do jogo "Quem sou eu" disponível em várias plataformas e lojas físicas, conta com a apresentação de diversas características diagnósticas de um mineral específico para que o usuário correlacione e responda corretamente. As perguntas nessa categoria são dividas em "Características mineralógicas e petrográficas", "Fórmula química" e "Gênese" do mineral.
+- **Quem eu sou?:** Uma paródia do jogo "Quem sou eu" disponível em várias plataformas e lojas físicas, conta com a apresentação de diversas características diagnósticas de um mineral específico para que o usuário correlacione e responda corretamente. As perguntas nessa categoria são divididas em "Características mineralógicas e petrográficas", "Fórmula química" e "Gênese" do mineral.
 - **Mineralogia:** As perguntas dessa categoria contam com a especificidade mineralógica macroscópica e microscópica do mineral, desde suas cores e cores de interferência, hábitos, maclas, extinção, birrefringência, caráter ótico, clivagem, relevo, sinal de elongação, cristalografia, dureza e suas séries.
 - **Petrografia:** Nessa categoria, as perguntas são divididas em características diagnósticas, classificação e descrição das rochas.
 - **Petrologia:** Nessa categoria, as perguntas são divididas em associação e ocorrência dos minerais, gênese e litologia das rochas.
@@ -63,9 +62,13 @@ Estamos na era da informação e muitas coisas acontecem de forma espontânea ou
 
 A parte mais desafiadora do projeto é a formulação de perguntas com 4 alternativas que façam sentido. Como essa tarefa é muito trabalhosa para um cérebro apenas, decidi criar uma forma de você, usuário/a/e contribuir. Para isso, criei um Document Word com tutorial de como as perguntas devem ser feitas e um link para o Google Sheets, lá você poderá seguir todos os passos e cadastrar sua pergunta.
 
+Caso queira contribuir, acesse o <a href="https://docs.google.com/document/d/1F6mXf0ht473rNZ4liSk-mj-pAEBUsaJ5p7l4-egwITY/edit?usp=sharing">MANUAL DE INSTRUÇÕES PARA FORMULAÇÃO DE PERGUNTAS</a>. Nele conterá informações importantes para caso você queira ajudar!
+
+Outra forma de contribuir é compartilhando esse projeto com mais alguém. Sinta-se a vontade! 🙂
+
 # ❤️ Agradecimentos
 
-Meus agradecimentos a todos que me apoiaram de alguma forma para a construção desse projeto, especialmente minha companheira Jheniffer do Nascimento Correia. À todos meus amigos e amigas colegas de turma, especificamente, os ingressantes de Geologia do ano de 2022 da Universidade Estadual de Campinas.
+Meus agradecimentos a todos que me apoiaram de alguma forma para a construção desse projeto, especialmente minha companheira [@JhenifferCorreia](https://www.github.com/JhenifferCorreia). À todos meus amigos e amigas colegas de turma, especificamente, os ingressantes de Geologia do ano de 2022 da Universidade Estadual de Campinas.
 
 # 🙂 Créditos
 

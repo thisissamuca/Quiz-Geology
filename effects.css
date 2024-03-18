@@ -93,7 +93,7 @@
 /* -------------------- ** MAIN ** ----------------------- */
 /* CAMPO RESPOSTAS */
 .resposta:hover {
-  background-color: #2949ff;
+  background-color: #ff4929;
   color: white;
   -webkit-box-shadow: 0px 0px 25px rgba(51, 51, 51, 0.7);
           box-shadow: 0px 0px 25px rgba(51, 51, 51, 0.7);
@@ -166,5 +166,13 @@
   transition: .5s;
 }
 
+#end:hover {
+  background-color: #fc1505;
+  color: #ffffff;
+  -webkit-box-shadow: 0px 0px 15px #1f1f1f;
+          box-shadow: 0px 0px 15px #1f1f1f;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
 /* ------------------------------------------------------------------------------- */
 /*# sourceMappingURL=effects.css.map */
